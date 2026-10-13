@@ -1,9 +1,10 @@
 # 🚀 MGPEB - Missão Aurora Siger (Fase 2)
 
+<img width="3584" height="1184" alt="Gemini_Generated_Image_cz84nucz84nucz84" src="https://github.com/user-attachments/assets/5778249c-ca35-405b-9a7e-72bed090b5df" />
+
 ![FIAP](https://img.shields.io/badge/FIAP-Ci%C3%AAncia_da_Computa%C3%A7%C3%A3o-ED145B?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Finalizado-10B981?style=for-the-badge)
 
 ## 📌 Sobre o Projeto
 Este repositório contém o **Módulo de Gerenciamento de Pouso e Estabilização de Base (MGPEB)**, desenvolvido como Atividade Integradora para o curso de Ciência da Computação (FIAP). O objetivo do sistema é orquestrar, de forma autônoma e segura, a descida de módulos logísticos e tripulados na colônia marciana Aurora Siger.
