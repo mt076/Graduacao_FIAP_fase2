@@ -1,0 +1,1751 @@
+Timestamp,Modulo,Fase_Missao,Status,Altitude_km,Velocidade_kmh,Combustivel_%,Temp_Interna_C
+2026-10-09 18:05:00,Suporte Médico,1 - Subida Terrestre,Acoplado,27.14,24161.71,100.0,22.0
+2026-10-09 18:05:00,Habitação,1 - Subida Terrestre,Acoplado,27.14,24161.71,100.0,22.0
+2026-10-09 18:05:00,Logística,1 - Subida Terrestre,Acoplado,27.14,24161.71,100.0,22.0
+2026-10-09 18:05:00,Energia,1 - Subida Terrestre,Acoplado,27.14,24161.71,100.0,22.0
+2026-10-09 18:05:00,Laboratório,1 - Subida Terrestre,Acoplado,27.14,24161.71,100.0,22.0
+2026-10-09 18:10:00,Suporte Médico,1 - Subida Terrestre,Acoplado,72.06,24385.64,100.0,22.0
+2026-10-09 18:10:00,Habitação,1 - Subida Terrestre,Acoplado,72.06,24385.64,100.0,22.0
+2026-10-09 18:10:00,Logística,1 - Subida Terrestre,Acoplado,72.06,24385.64,100.0,22.0
+2026-10-09 18:10:00,Energia,1 - Subida Terrestre,Acoplado,72.06,24385.64,100.0,22.0
+2026-10-09 18:10:00,Laboratório,1 - Subida Terrestre,Acoplado,72.06,24385.64,100.0,22.0
+2026-10-09 18:15:00,Suporte Médico,1 - Subida Terrestre,Acoplado,96.63,18744.74,100.0,22.0
+2026-10-09 18:15:00,Habitação,1 - Subida Terrestre,Acoplado,96.63,18744.74,100.0,22.0
+2026-10-09 18:15:00,Logística,1 - Subida Terrestre,Acoplado,96.63,18744.74,100.0,22.0
+2026-10-09 18:15:00,Energia,1 - Subida Terrestre,Acoplado,96.63,18744.74,100.0,22.0
+2026-10-09 18:15:00,Laboratório,1 - Subida Terrestre,Acoplado,96.63,18744.74,100.0,22.0
+2026-10-09 18:20:00,Suporte Médico,1 - Subida Terrestre,Acoplado,125.35,26596.53,100.0,22.0
+2026-10-09 18:20:00,Habitação,1 - Subida Terrestre,Acoplado,125.35,26596.53,100.0,22.0
+2026-10-09 18:20:00,Logística,1 - Subida Terrestre,Acoplado,125.35,26596.53,100.0,22.0
+2026-10-09 18:20:00,Energia,1 - Subida Terrestre,Acoplado,125.35,26596.53,100.0,22.0
+2026-10-09 18:20:00,Laboratório,1 - Subida Terrestre,Acoplado,125.35,26596.53,100.0,22.0
+2026-10-09 18:25:00,Suporte Médico,1 - Subida Terrestre,Acoplado,150.14,23277.08,100.0,22.0
+2026-10-09 18:25:00,Habitação,1 - Subida Terrestre,Acoplado,150.14,23277.08,100.0,22.0
+2026-10-09 18:25:00,Logística,1 - Subida Terrestre,Acoplado,150.14,23277.08,100.0,22.0
+2026-10-09 18:25:00,Energia,1 - Subida Terrestre,Acoplado,150.14,23277.08,100.0,22.0
+2026-10-09 18:25:00,Laboratório,1 - Subida Terrestre,Acoplado,150.14,23277.08,100.0,22.0
+2026-10-09 18:30:00,Suporte Médico,1 - Subida Terrestre,Acoplado,194.44,20994.58,100.0,22.0
+2026-10-09 18:30:00,Habitação,1 - Subida Terrestre,Acoplado,194.44,20994.58,100.0,22.0
+2026-10-09 18:30:00,Logística,1 - Subida Terrestre,Acoplado,194.44,20994.58,100.0,22.0
+2026-10-09 18:30:00,Energia,1 - Subida Terrestre,Acoplado,194.44,20994.58,100.0,22.0
+2026-10-09 18:30:00,Laboratório,1 - Subida Terrestre,Acoplado,194.44,20994.58,100.0,22.0
+2026-10-09 18:35:00,Suporte Médico,1 - Subida Terrestre,Acoplado,212.11,16202.25,100.0,22.0
+2026-10-09 18:35:00,Habitação,1 - Subida Terrestre,Acoplado,212.11,16202.25,100.0,22.0
+2026-10-09 18:35:00,Logística,1 - Subida Terrestre,Acoplado,212.11,16202.25,100.0,22.0
+2026-10-09 18:35:00,Energia,1 - Subida Terrestre,Acoplado,212.11,16202.25,100.0,22.0
+2026-10-09 18:35:00,Laboratório,1 - Subida Terrestre,Acoplado,212.11,16202.25,100.0,22.0
+2026-10-09 18:40:00,Suporte Médico,1 - Subida Terrestre,Acoplado,234.91,22108.7,100.0,22.0
+2026-10-09 18:40:00,Habitação,1 - Subida Terrestre,Acoplado,234.91,22108.7,100.0,22.0
+2026-10-09 18:40:00,Logística,1 - Subida Terrestre,Acoplado,234.91,22108.7,100.0,22.0
+2026-10-09 18:40:00,Energia,1 - Subida Terrestre,Acoplado,234.91,22108.7,100.0,22.0
+2026-10-09 18:40:00,Laboratório,1 - Subida Terrestre,Acoplado,234.91,22108.7,100.0,22.0
+2026-10-09 18:45:00,Suporte Médico,1 - Subida Terrestre,Acoplado,276.95,23618.82,100.0,22.0
+2026-10-09 18:45:00,Habitação,1 - Subida Terrestre,Acoplado,276.95,23618.82,100.0,22.0
+2026-10-09 18:45:00,Logística,1 - Subida Terrestre,Acoplado,276.95,23618.82,100.0,22.0
+2026-10-09 18:45:00,Energia,1 - Subida Terrestre,Acoplado,276.95,23618.82,100.0,22.0
+2026-10-09 18:45:00,Laboratório,1 - Subida Terrestre,Acoplado,276.95,23618.82,100.0,22.0
+2026-10-09 18:50:00,Suporte Médico,1 - Subida Terrestre,Acoplado,320.1,23464.23,100.0,22.0
+2026-10-09 18:50:00,Habitação,1 - Subida Terrestre,Acoplado,320.1,23464.23,100.0,22.0
+2026-10-09 18:50:00,Logística,1 - Subida Terrestre,Acoplado,320.1,23464.23,100.0,22.0
+2026-10-09 18:50:00,Energia,1 - Subida Terrestre,Acoplado,320.1,23464.23,100.0,22.0
+2026-10-09 18:50:00,Laboratório,1 - Subida Terrestre,Acoplado,320.1,23464.23,100.0,22.0
+2026-10-09 18:55:00,Suporte Médico,1 - Subida Terrestre,Acoplado,359.67,23257.47,100.0,22.0
+2026-10-09 18:55:00,Habitação,1 - Subida Terrestre,Acoplado,359.67,23257.47,100.0,22.0
+2026-10-09 18:55:00,Logística,1 - Subida Terrestre,Acoplado,359.67,23257.47,100.0,22.0
+2026-10-09 18:55:00,Energia,1 - Subida Terrestre,Acoplado,359.67,23257.47,100.0,22.0
+2026-10-09 18:55:00,Laboratório,1 - Subida Terrestre,Acoplado,359.67,23257.47,100.0,22.0
+2026-10-09 19:00:00,Suporte Médico,1 - Subida Terrestre,Acoplado,406.18,21960.61,100.0,22.0
+2026-10-09 19:00:00,Habitação,1 - Subida Terrestre,Acoplado,406.18,21960.61,100.0,22.0
+2026-10-09 19:00:00,Logística,1 - Subida Terrestre,Acoplado,406.18,21960.61,100.0,22.0
+2026-10-09 19:00:00,Energia,1 - Subida Terrestre,Acoplado,406.18,21960.61,100.0,22.0
+2026-10-09 19:00:00,Laboratório,1 - Subida Terrestre,Acoplado,406.18,21960.61,100.0,22.0
+2026-10-09 19:05:00,Suporte Médico,1 - Subida Terrestre,Acoplado,427.31,17351.05,100.0,22.0
+2026-10-09 19:05:00,Habitação,1 - Subida Terrestre,Acoplado,427.31,17351.05,100.0,22.0
+2026-10-09 19:05:00,Logística,1 - Subida Terrestre,Acoplado,427.31,17351.05,100.0,22.0
+2026-10-09 19:05:00,Energia,1 - Subida Terrestre,Acoplado,427.31,17351.05,100.0,22.0
+2026-10-09 19:05:00,Laboratório,1 - Subida Terrestre,Acoplado,427.31,17351.05,100.0,22.0
+2026-10-09 19:10:00,Suporte Médico,1 - Subida Terrestre,Acoplado,459.02,27738.38,100.0,22.0
+2026-10-09 19:10:00,Habitação,1 - Subida Terrestre,Acoplado,459.02,27738.38,100.0,22.0
+2026-10-09 19:10:00,Logística,1 - Subida Terrestre,Acoplado,459.02,27738.38,100.0,22.0
+2026-10-09 19:10:00,Energia,1 - Subida Terrestre,Acoplado,459.02,27738.38,100.0,22.0
+2026-10-09 19:10:00,Laboratório,1 - Subida Terrestre,Acoplado,459.02,27738.38,100.0,22.0
+2026-10-09 19:15:00,Suporte Médico,1 - Subida Terrestre,Acoplado,495.24,22296.15,100.0,22.0
+2026-10-09 19:15:00,Habitação,1 - Subida Terrestre,Acoplado,495.24,22296.15,100.0,22.0
+2026-10-09 19:15:00,Logística,1 - Subida Terrestre,Acoplado,495.24,22296.15,100.0,22.0
+2026-10-09 19:15:00,Energia,1 - Subida Terrestre,Acoplado,495.24,22296.15,100.0,22.0
+2026-10-09 19:15:00,Laboratório,1 - Subida Terrestre,Acoplado,495.24,22296.15,100.0,22.0
+2026-10-09 19:20:00,Suporte Médico,1 - Subida Terrestre,Acoplado,514.82,16534.76,100.0,22.0
+2026-10-09 19:20:00,Habitação,1 - Subida Terrestre,Acoplado,514.82,16534.76,100.0,22.0
+2026-10-09 19:20:00,Logística,1 - Subida Terrestre,Acoplado,514.82,16534.76,100.0,22.0
+2026-10-09 19:20:00,Energia,1 - Subida Terrestre,Acoplado,514.82,16534.76,100.0,22.0
+2026-10-09 19:20:00,Laboratório,1 - Subida Terrestre,Acoplado,514.82,16534.76,100.0,22.0
+2026-10-09 19:25:00,Suporte Médico,1 - Subida Terrestre,Acoplado,555.67,20954.06,100.0,22.0
+2026-10-09 19:25:00,Habitação,1 - Subida Terrestre,Acoplado,555.67,20954.06,100.0,22.0
+2026-10-09 19:25:00,Logística,1 - Subida Terrestre,Acoplado,555.67,20954.06,100.0,22.0
+2026-10-09 19:25:00,Energia,1 - Subida Terrestre,Acoplado,555.67,20954.06,100.0,22.0
+2026-10-09 19:25:00,Laboratório,1 - Subida Terrestre,Acoplado,555.67,20954.06,100.0,22.0
+2026-10-09 19:30:00,Suporte Médico,1 - Subida Terrestre,Acoplado,566.26,25267.58,100.0,22.0
+2026-10-09 19:30:00,Habitação,1 - Subida Terrestre,Acoplado,566.26,25267.58,100.0,22.0
+2026-10-09 19:30:00,Logística,1 - Subida Terrestre,Acoplado,566.26,25267.58,100.0,22.0
+2026-10-09 19:30:00,Energia,1 - Subida Terrestre,Acoplado,566.26,25267.58,100.0,22.0
+2026-10-09 19:30:00,Laboratório,1 - Subida Terrestre,Acoplado,566.26,25267.58,100.0,22.0
+2026-10-09 19:35:00,Suporte Médico,1 - Subida Terrestre,Acoplado,610.07,21658.81,100.0,22.0
+2026-10-09 19:35:00,Habitação,1 - Subida Terrestre,Acoplado,610.07,21658.81,100.0,22.0
+2026-10-09 19:35:00,Logística,1 - Subida Terrestre,Acoplado,610.07,21658.81,100.0,22.0
+2026-10-09 19:35:00,Energia,1 - Subida Terrestre,Acoplado,610.07,21658.81,100.0,22.0
+2026-10-09 19:35:00,Laboratório,1 - Subida Terrestre,Acoplado,610.07,21658.81,100.0,22.0
+2026-10-09 19:40:00,Suporte Médico,1 - Subida Terrestre,Acoplado,632.66,19415.03,100.0,22.0
+2026-10-09 19:40:00,Habitação,1 - Subida Terrestre,Acoplado,632.66,19415.03,100.0,22.0
+2026-10-09 19:40:00,Logística,1 - Subida Terrestre,Acoplado,632.66,19415.03,100.0,22.0
+2026-10-09 19:40:00,Energia,1 - Subida Terrestre,Acoplado,632.66,19415.03,100.0,22.0
+2026-10-09 19:40:00,Laboratório,1 - Subida Terrestre,Acoplado,632.66,19415.03,100.0,22.0
+2026-10-09 19:45:00,Suporte Médico,1 - Subida Terrestre,Acoplado,674.89,25869.77,100.0,22.0
+2026-10-09 19:45:00,Habitação,1 - Subida Terrestre,Acoplado,674.89,25869.77,100.0,22.0
+2026-10-09 19:45:00,Logística,1 - Subida Terrestre,Acoplado,674.89,25869.77,100.0,22.0
+2026-10-09 19:45:00,Energia,1 - Subida Terrestre,Acoplado,674.89,25869.77,100.0,22.0
+2026-10-09 19:45:00,Laboratório,1 - Subida Terrestre,Acoplado,674.89,25869.77,100.0,22.0
+2026-10-09 19:50:00,Suporte Médico,1 - Subida Terrestre,Acoplado,692.41,23292.32,100.0,22.0
+2026-10-09 19:50:00,Habitação,1 - Subida Terrestre,Acoplado,692.41,23292.32,100.0,22.0
+2026-10-09 19:50:00,Logística,1 - Subida Terrestre,Acoplado,692.41,23292.32,100.0,22.0
+2026-10-09 19:50:00,Energia,1 - Subida Terrestre,Acoplado,692.41,23292.32,100.0,22.0
+2026-10-09 19:50:00,Laboratório,1 - Subida Terrestre,Acoplado,692.41,23292.32,100.0,22.0
+2026-10-09 19:55:00,Suporte Médico,1 - Subida Terrestre,Acoplado,707.3,15327.18,100.0,22.0
+2026-10-09 19:55:00,Habitação,1 - Subida Terrestre,Acoplado,707.3,15327.18,100.0,22.0
+2026-10-09 19:55:00,Logística,1 - Subida Terrestre,Acoplado,707.3,15327.18,100.0,22.0
+2026-10-09 19:55:00,Energia,1 - Subida Terrestre,Acoplado,707.3,15327.18,100.0,22.0
+2026-10-09 19:55:00,Laboratório,1 - Subida Terrestre,Acoplado,707.3,15327.18,100.0,22.0
+2026-10-09 20:00:00,Suporte Médico,1 - Subida Terrestre,Acoplado,739.68,16156.64,100.0,22.0
+2026-10-09 20:00:00,Habitação,1 - Subida Terrestre,Acoplado,739.68,16156.64,100.0,22.0
+2026-10-09 20:00:00,Logística,1 - Subida Terrestre,Acoplado,739.68,16156.64,100.0,22.0
+2026-10-09 20:00:00,Energia,1 - Subida Terrestre,Acoplado,739.68,16156.64,100.0,22.0
+2026-10-09 20:00:00,Laboratório,1 - Subida Terrestre,Acoplado,739.68,16156.64,100.0,22.0
+2026-10-09 20:05:00,Suporte Médico,1 - Subida Terrestre,Acoplado,776.34,23624.6,100.0,22.0
+2026-10-09 20:05:00,Habitação,1 - Subida Terrestre,Acoplado,776.34,23624.6,100.0,22.0
+2026-10-09 20:05:00,Logística,1 - Subida Terrestre,Acoplado,776.34,23624.6,100.0,22.0
+2026-10-09 20:05:00,Energia,1 - Subida Terrestre,Acoplado,776.34,23624.6,100.0,22.0
+2026-10-09 20:05:00,Laboratório,1 - Subida Terrestre,Acoplado,776.34,23624.6,100.0,22.0
+2026-10-09 20:10:00,Suporte Médico,1 - Subida Terrestre,Acoplado,816.34,27087.77,100.0,22.0
+2026-10-09 20:10:00,Habitação,1 - Subida Terrestre,Acoplado,816.34,27087.77,100.0,22.0
+2026-10-09 20:10:00,Logística,1 - Subida Terrestre,Acoplado,816.34,27087.77,100.0,22.0
+2026-10-09 20:10:00,Energia,1 - Subida Terrestre,Acoplado,816.34,27087.77,100.0,22.0
+2026-10-09 20:10:00,Laboratório,1 - Subida Terrestre,Acoplado,816.34,27087.77,100.0,22.0
+2026-10-09 20:15:00,Suporte Médico,1 - Subida Terrestre,Acoplado,832.22,22800.08,100.0,22.0
+2026-10-09 20:15:00,Habitação,1 - Subida Terrestre,Acoplado,832.22,22800.08,100.0,22.0
+2026-10-09 20:15:00,Logística,1 - Subida Terrestre,Acoplado,832.22,22800.08,100.0,22.0
+2026-10-09 20:15:00,Energia,1 - Subida Terrestre,Acoplado,832.22,22800.08,100.0,22.0
+2026-10-09 20:15:00,Laboratório,1 - Subida Terrestre,Acoplado,832.22,22800.08,100.0,22.0
+2026-10-09 20:20:00,Suporte Médico,1 - Subida Terrestre,Acoplado,843.05,22304.81,100.0,22.0
+2026-10-09 20:20:00,Habitação,1 - Subida Terrestre,Acoplado,843.05,22304.81,100.0,22.0
+2026-10-09 20:20:00,Logística,1 - Subida Terrestre,Acoplado,843.05,22304.81,100.0,22.0
+2026-10-09 20:20:00,Energia,1 - Subida Terrestre,Acoplado,843.05,22304.81,100.0,22.0
+2026-10-09 20:20:00,Laboratório,1 - Subida Terrestre,Acoplado,843.05,22304.81,100.0,22.0
+2026-10-09 20:25:00,Suporte Médico,1 - Subida Terrestre,Acoplado,864.29,19960.46,100.0,22.0
+2026-10-09 20:25:00,Habitação,1 - Subida Terrestre,Acoplado,864.29,19960.46,100.0,22.0
+2026-10-09 20:25:00,Logística,1 - Subida Terrestre,Acoplado,864.29,19960.46,100.0,22.0
+2026-10-09 20:25:00,Energia,1 - Subida Terrestre,Acoplado,864.29,19960.46,100.0,22.0
+2026-10-09 20:25:00,Laboratório,1 - Subida Terrestre,Acoplado,864.29,19960.46,100.0,22.0
+2026-10-09 20:30:00,Suporte Médico,1 - Subida Terrestre,Acoplado,899.41,17019.92,100.0,22.0
+2026-10-09 20:30:00,Habitação,1 - Subida Terrestre,Acoplado,899.41,17019.92,100.0,22.0
+2026-10-09 20:30:00,Logística,1 - Subida Terrestre,Acoplado,899.41,17019.92,100.0,22.0
+2026-10-09 20:30:00,Energia,1 - Subida Terrestre,Acoplado,899.41,17019.92,100.0,22.0
+2026-10-09 20:30:00,Laboratório,1 - Subida Terrestre,Acoplado,899.41,17019.92,100.0,22.0
+2026-10-09 20:35:00,Suporte Médico,1 - Subida Terrestre,Acoplado,944.71,24048.09,100.0,22.0
+2026-10-09 20:35:00,Habitação,1 - Subida Terrestre,Acoplado,944.71,24048.09,100.0,22.0
+2026-10-09 20:35:00,Logística,1 - Subida Terrestre,Acoplado,944.71,24048.09,100.0,22.0
+2026-10-09 20:35:00,Energia,1 - Subida Terrestre,Acoplado,944.71,24048.09,100.0,22.0
+2026-10-09 20:35:00,Laboratório,1 - Subida Terrestre,Acoplado,944.71,24048.09,100.0,22.0
+2026-10-09 20:40:00,Suporte Médico,1 - Subida Terrestre,Acoplado,958.69,22745.39,100.0,22.0
+2026-10-09 20:40:00,Habitação,1 - Subida Terrestre,Acoplado,958.69,22745.39,100.0,22.0
+2026-10-09 20:40:00,Logística,1 - Subida Terrestre,Acoplado,958.69,22745.39,100.0,22.0
+2026-10-09 20:40:00,Energia,1 - Subida Terrestre,Acoplado,958.69,22745.39,100.0,22.0
+2026-10-09 20:40:00,Laboratório,1 - Subida Terrestre,Acoplado,958.69,22745.39,100.0,22.0
+2026-10-09 20:45:00,Suporte Médico,1 - Subida Terrestre,Acoplado,993.02,22564.21,100.0,22.0
+2026-10-09 20:45:00,Habitação,1 - Subida Terrestre,Acoplado,993.02,22564.21,100.0,22.0
+2026-10-09 20:45:00,Logística,1 - Subida Terrestre,Acoplado,993.02,22564.21,100.0,22.0
+2026-10-09 20:45:00,Energia,1 - Subida Terrestre,Acoplado,993.02,22564.21,100.0,22.0
+2026-10-09 20:45:00,Laboratório,1 - Subida Terrestre,Acoplado,993.02,22564.21,100.0,22.0
+2026-10-09 20:50:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1016.47,15962.4,100.0,22.0
+2026-10-09 20:50:00,Habitação,1 - Subida Terrestre,Acoplado,1016.47,15962.4,100.0,22.0
+2026-10-09 20:50:00,Logística,1 - Subida Terrestre,Acoplado,1016.47,15962.4,100.0,22.0
+2026-10-09 20:50:00,Energia,1 - Subida Terrestre,Acoplado,1016.47,15962.4,100.0,22.0
+2026-10-09 20:50:00,Laboratório,1 - Subida Terrestre,Acoplado,1016.47,15962.4,100.0,22.0
+2026-10-09 20:55:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1049.35,25593.05,100.0,22.0
+2026-10-09 20:55:00,Habitação,1 - Subida Terrestre,Acoplado,1049.35,25593.05,100.0,22.0
+2026-10-09 20:55:00,Logística,1 - Subida Terrestre,Acoplado,1049.35,25593.05,100.0,22.0
+2026-10-09 20:55:00,Energia,1 - Subida Terrestre,Acoplado,1049.35,25593.05,100.0,22.0
+2026-10-09 20:55:00,Laboratório,1 - Subida Terrestre,Acoplado,1049.35,25593.05,100.0,22.0
+2026-10-09 21:00:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1074.7,18440.47,100.0,22.0
+2026-10-09 21:00:00,Habitação,1 - Subida Terrestre,Acoplado,1074.7,18440.47,100.0,22.0
+2026-10-09 21:00:00,Logística,1 - Subida Terrestre,Acoplado,1074.7,18440.47,100.0,22.0
+2026-10-09 21:00:00,Energia,1 - Subida Terrestre,Acoplado,1074.7,18440.47,100.0,22.0
+2026-10-09 21:00:00,Laboratório,1 - Subida Terrestre,Acoplado,1074.7,18440.47,100.0,22.0
+2026-10-09 21:05:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1090.91,23266.0,100.0,22.0
+2026-10-09 21:05:00,Habitação,1 - Subida Terrestre,Acoplado,1090.91,23266.0,100.0,22.0
+2026-10-09 21:05:00,Logística,1 - Subida Terrestre,Acoplado,1090.91,23266.0,100.0,22.0
+2026-10-09 21:05:00,Energia,1 - Subida Terrestre,Acoplado,1090.91,23266.0,100.0,22.0
+2026-10-09 21:05:00,Laboratório,1 - Subida Terrestre,Acoplado,1090.91,23266.0,100.0,22.0
+2026-10-09 21:10:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1101.93,21160.55,100.0,22.0
+2026-10-09 21:10:00,Habitação,1 - Subida Terrestre,Acoplado,1101.93,21160.55,100.0,22.0
+2026-10-09 21:10:00,Logística,1 - Subida Terrestre,Acoplado,1101.93,21160.55,100.0,22.0
+2026-10-09 21:10:00,Energia,1 - Subida Terrestre,Acoplado,1101.93,21160.55,100.0,22.0
+2026-10-09 21:10:00,Laboratório,1 - Subida Terrestre,Acoplado,1101.93,21160.55,100.0,22.0
+2026-10-09 21:15:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1144.5,18637.37,100.0,22.0
+2026-10-09 21:15:00,Habitação,1 - Subida Terrestre,Acoplado,1144.5,18637.37,100.0,22.0
+2026-10-09 21:15:00,Logística,1 - Subida Terrestre,Acoplado,1144.5,18637.37,100.0,22.0
+2026-10-09 21:15:00,Energia,1 - Subida Terrestre,Acoplado,1144.5,18637.37,100.0,22.0
+2026-10-09 21:15:00,Laboratório,1 - Subida Terrestre,Acoplado,1144.5,18637.37,100.0,22.0
+2026-10-09 21:20:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1170.06,16338.07,100.0,22.0
+2026-10-09 21:20:00,Habitação,1 - Subida Terrestre,Acoplado,1170.06,16338.07,100.0,22.0
+2026-10-09 21:20:00,Logística,1 - Subida Terrestre,Acoplado,1170.06,16338.07,100.0,22.0
+2026-10-09 21:20:00,Energia,1 - Subida Terrestre,Acoplado,1170.06,16338.07,100.0,22.0
+2026-10-09 21:20:00,Laboratório,1 - Subida Terrestre,Acoplado,1170.06,16338.07,100.0,22.0
+2026-10-09 21:25:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1188.19,27828.04,100.0,22.0
+2026-10-09 21:25:00,Habitação,1 - Subida Terrestre,Acoplado,1188.19,27828.04,100.0,22.0
+2026-10-09 21:25:00,Logística,1 - Subida Terrestre,Acoplado,1188.19,27828.04,100.0,22.0
+2026-10-09 21:25:00,Energia,1 - Subida Terrestre,Acoplado,1188.19,27828.04,100.0,22.0
+2026-10-09 21:25:00,Laboratório,1 - Subida Terrestre,Acoplado,1188.19,27828.04,100.0,22.0
+2026-10-09 21:30:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1230.54,15233.3,100.0,22.0
+2026-10-09 21:30:00,Habitação,1 - Subida Terrestre,Acoplado,1230.54,15233.3,100.0,22.0
+2026-10-09 21:30:00,Logística,1 - Subida Terrestre,Acoplado,1230.54,15233.3,100.0,22.0
+2026-10-09 21:30:00,Energia,1 - Subida Terrestre,Acoplado,1230.54,15233.3,100.0,22.0
+2026-10-09 21:30:00,Laboratório,1 - Subida Terrestre,Acoplado,1230.54,15233.3,100.0,22.0
+2026-10-09 21:35:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1241.97,26974.05,100.0,22.0
+2026-10-09 21:35:00,Habitação,1 - Subida Terrestre,Acoplado,1241.97,26974.05,100.0,22.0
+2026-10-09 21:35:00,Logística,1 - Subida Terrestre,Acoplado,1241.97,26974.05,100.0,22.0
+2026-10-09 21:35:00,Energia,1 - Subida Terrestre,Acoplado,1241.97,26974.05,100.0,22.0
+2026-10-09 21:35:00,Laboratório,1 - Subida Terrestre,Acoplado,1241.97,26974.05,100.0,22.0
+2026-10-09 21:40:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1268.73,19442.9,100.0,22.0
+2026-10-09 21:40:00,Habitação,1 - Subida Terrestre,Acoplado,1268.73,19442.9,100.0,22.0
+2026-10-09 21:40:00,Logística,1 - Subida Terrestre,Acoplado,1268.73,19442.9,100.0,22.0
+2026-10-09 21:40:00,Energia,1 - Subida Terrestre,Acoplado,1268.73,19442.9,100.0,22.0
+2026-10-09 21:40:00,Laboratório,1 - Subida Terrestre,Acoplado,1268.73,19442.9,100.0,22.0
+2026-10-09 21:45:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1282.22,18184.69,100.0,22.0
+2026-10-09 21:45:00,Habitação,1 - Subida Terrestre,Acoplado,1282.22,18184.69,100.0,22.0
+2026-10-09 21:45:00,Logística,1 - Subida Terrestre,Acoplado,1282.22,18184.69,100.0,22.0
+2026-10-09 21:45:00,Energia,1 - Subida Terrestre,Acoplado,1282.22,18184.69,100.0,22.0
+2026-10-09 21:45:00,Laboratório,1 - Subida Terrestre,Acoplado,1282.22,18184.69,100.0,22.0
+2026-10-09 21:50:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1292.61,25803.07,100.0,22.0
+2026-10-09 21:50:00,Habitação,1 - Subida Terrestre,Acoplado,1292.61,25803.07,100.0,22.0
+2026-10-09 21:50:00,Logística,1 - Subida Terrestre,Acoplado,1292.61,25803.07,100.0,22.0
+2026-10-09 21:50:00,Energia,1 - Subida Terrestre,Acoplado,1292.61,25803.07,100.0,22.0
+2026-10-09 21:50:00,Laboratório,1 - Subida Terrestre,Acoplado,1292.61,25803.07,100.0,22.0
+2026-10-09 21:55:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1332.34,17817.25,100.0,22.0
+2026-10-09 21:55:00,Habitação,1 - Subida Terrestre,Acoplado,1332.34,17817.25,100.0,22.0
+2026-10-09 21:55:00,Logística,1 - Subida Terrestre,Acoplado,1332.34,17817.25,100.0,22.0
+2026-10-09 21:55:00,Energia,1 - Subida Terrestre,Acoplado,1332.34,17817.25,100.0,22.0
+2026-10-09 21:55:00,Laboratório,1 - Subida Terrestre,Acoplado,1332.34,17817.25,100.0,22.0
+2026-10-09 22:00:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1380.32,27295.15,100.0,22.0
+2026-10-09 22:00:00,Habitação,1 - Subida Terrestre,Acoplado,1380.32,27295.15,100.0,22.0
+2026-10-09 22:00:00,Logística,1 - Subida Terrestre,Acoplado,1380.32,27295.15,100.0,22.0
+2026-10-09 22:00:00,Energia,1 - Subida Terrestre,Acoplado,1380.32,27295.15,100.0,22.0
+2026-10-09 22:00:00,Laboratório,1 - Subida Terrestre,Acoplado,1380.32,27295.15,100.0,22.0
+2026-10-09 22:05:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1409.82,19529.74,100.0,22.0
+2026-10-09 22:05:00,Habitação,1 - Subida Terrestre,Acoplado,1409.82,19529.74,100.0,22.0
+2026-10-09 22:05:00,Logística,1 - Subida Terrestre,Acoplado,1409.82,19529.74,100.0,22.0
+2026-10-09 22:05:00,Energia,1 - Subida Terrestre,Acoplado,1409.82,19529.74,100.0,22.0
+2026-10-09 22:05:00,Laboratório,1 - Subida Terrestre,Acoplado,1409.82,19529.74,100.0,22.0
+2026-10-09 22:10:00,Suporte Médico,1 - Subida Terrestre,Acoplado,1457.45,26882.6,100.0,22.0
+2026-10-09 22:10:00,Habitação,1 - Subida Terrestre,Acoplado,1457.45,26882.6,100.0,22.0
+2026-10-09 22:10:00,Logística,1 - Subida Terrestre,Acoplado,1457.45,26882.6,100.0,22.0
+2026-10-09 22:10:00,Energia,1 - Subida Terrestre,Acoplado,1457.45,26882.6,100.0,22.0
+2026-10-09 22:10:00,Laboratório,1 - Subida Terrestre,Acoplado,1457.45,26882.6,100.0,22.0
+2026-10-09 22:15:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,1756.63,36748.65,100.0,22.0
+2026-10-09 22:15:00,Habitação,2 - Trânsito Espacial,Acoplado,1756.63,36748.65,100.0,22.0
+2026-10-09 22:15:00,Logística,2 - Trânsito Espacial,Acoplado,1756.63,36748.65,100.0,22.0
+2026-10-09 22:15:00,Energia,2 - Trânsito Espacial,Acoplado,1756.63,36748.65,100.0,22.0
+2026-10-09 22:15:00,Laboratório,2 - Trânsito Espacial,Acoplado,1756.63,36748.65,100.0,22.0
+2026-10-09 22:20:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,2058.63,37759.94,100.0,22.0
+2026-10-09 22:20:00,Habitação,2 - Trânsito Espacial,Acoplado,2058.63,37759.94,100.0,22.0
+2026-10-09 22:20:00,Logística,2 - Trânsito Espacial,Acoplado,2058.63,37759.94,100.0,22.0
+2026-10-09 22:20:00,Energia,2 - Trânsito Espacial,Acoplado,2058.63,37759.94,100.0,22.0
+2026-10-09 22:20:00,Laboratório,2 - Trânsito Espacial,Acoplado,2058.63,37759.94,100.0,22.0
+2026-10-09 22:25:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,2446.09,36232.82,100.0,22.0
+2026-10-09 22:25:00,Habitação,2 - Trânsito Espacial,Acoplado,2446.09,36232.82,100.0,22.0
+2026-10-09 22:25:00,Logística,2 - Trânsito Espacial,Acoplado,2446.09,36232.82,100.0,22.0
+2026-10-09 22:25:00,Energia,2 - Trânsito Espacial,Acoplado,2446.09,36232.82,100.0,22.0
+2026-10-09 22:25:00,Laboratório,2 - Trânsito Espacial,Acoplado,2446.09,36232.82,100.0,22.0
+2026-10-09 22:30:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,2571.93,38094.31,100.0,22.0
+2026-10-09 22:30:00,Habitação,2 - Trânsito Espacial,Acoplado,2571.93,38094.31,100.0,22.0
+2026-10-09 22:30:00,Logística,2 - Trânsito Espacial,Acoplado,2571.93,38094.31,100.0,22.0
+2026-10-09 22:30:00,Energia,2 - Trânsito Espacial,Acoplado,2571.93,38094.31,100.0,22.0
+2026-10-09 22:30:00,Laboratório,2 - Trânsito Espacial,Acoplado,2571.93,38094.31,100.0,22.0
+2026-10-09 22:35:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,3063.28,39827.46,100.0,22.0
+2026-10-09 22:35:00,Habitação,2 - Trânsito Espacial,Acoplado,3063.28,39827.46,100.0,22.0
+2026-10-09 22:35:00,Logística,2 - Trânsito Espacial,Acoplado,3063.28,39827.46,100.0,22.0
+2026-10-09 22:35:00,Energia,2 - Trânsito Espacial,Acoplado,3063.28,39827.46,100.0,22.0
+2026-10-09 22:35:00,Laboratório,2 - Trânsito Espacial,Acoplado,3063.28,39827.46,100.0,22.0
+2026-10-09 22:40:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,3193.37,36815.09,100.0,22.0
+2026-10-09 22:40:00,Habitação,2 - Trânsito Espacial,Acoplado,3193.37,36815.09,100.0,22.0
+2026-10-09 22:40:00,Logística,2 - Trânsito Espacial,Acoplado,3193.37,36815.09,100.0,22.0
+2026-10-09 22:40:00,Energia,2 - Trânsito Espacial,Acoplado,3193.37,36815.09,100.0,22.0
+2026-10-09 22:40:00,Laboratório,2 - Trânsito Espacial,Acoplado,3193.37,36815.09,100.0,22.0
+2026-10-09 22:45:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,3678.35,37270.32,100.0,22.0
+2026-10-09 22:45:00,Habitação,2 - Trânsito Espacial,Acoplado,3678.35,37270.32,100.0,22.0
+2026-10-09 22:45:00,Logística,2 - Trânsito Espacial,Acoplado,3678.35,37270.32,100.0,22.0
+2026-10-09 22:45:00,Energia,2 - Trânsito Espacial,Acoplado,3678.35,37270.32,100.0,22.0
+2026-10-09 22:45:00,Laboratório,2 - Trânsito Espacial,Acoplado,3678.35,37270.32,100.0,22.0
+2026-10-09 22:50:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,4150.2,37673.42,100.0,22.0
+2026-10-09 22:50:00,Habitação,2 - Trânsito Espacial,Acoplado,4150.2,37673.42,100.0,22.0
+2026-10-09 22:50:00,Logística,2 - Trânsito Espacial,Acoplado,4150.2,37673.42,100.0,22.0
+2026-10-09 22:50:00,Energia,2 - Trânsito Espacial,Acoplado,4150.2,37673.42,100.0,22.0
+2026-10-09 22:50:00,Laboratório,2 - Trânsito Espacial,Acoplado,4150.2,37673.42,100.0,22.0
+2026-10-09 22:55:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,4281.3,39055.2,100.0,22.0
+2026-10-09 22:55:00,Habitação,2 - Trânsito Espacial,Acoplado,4281.3,39055.2,100.0,22.0
+2026-10-09 22:55:00,Logística,2 - Trânsito Espacial,Acoplado,4281.3,39055.2,100.0,22.0
+2026-10-09 22:55:00,Energia,2 - Trânsito Espacial,Acoplado,4281.3,39055.2,100.0,22.0
+2026-10-09 22:55:00,Laboratório,2 - Trânsito Espacial,Acoplado,4281.3,39055.2,100.0,22.0
+2026-10-09 23:00:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,4577.56,35323.98,100.0,22.0
+2026-10-09 23:00:00,Habitação,2 - Trânsito Espacial,Acoplado,4577.56,35323.98,100.0,22.0
+2026-10-09 23:00:00,Logística,2 - Trânsito Espacial,Acoplado,4577.56,35323.98,100.0,22.0
+2026-10-09 23:00:00,Energia,2 - Trânsito Espacial,Acoplado,4577.56,35323.98,100.0,22.0
+2026-10-09 23:00:00,Laboratório,2 - Trânsito Espacial,Acoplado,4577.56,35323.98,100.0,22.0
+2026-10-09 23:05:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,4853.63,38815.17,100.0,22.0
+2026-10-09 23:05:00,Habitação,2 - Trânsito Espacial,Acoplado,4853.63,38815.17,100.0,22.0
+2026-10-09 23:05:00,Logística,2 - Trânsito Espacial,Acoplado,4853.63,38815.17,100.0,22.0
+2026-10-09 23:05:00,Energia,2 - Trânsito Espacial,Acoplado,4853.63,38815.17,100.0,22.0
+2026-10-09 23:05:00,Laboratório,2 - Trânsito Espacial,Acoplado,4853.63,38815.17,100.0,22.0
+2026-10-09 23:10:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,5348.19,35670.61,100.0,22.0
+2026-10-09 23:10:00,Habitação,2 - Trânsito Espacial,Acoplado,5348.19,35670.61,100.0,22.0
+2026-10-09 23:10:00,Logística,2 - Trânsito Espacial,Acoplado,5348.19,35670.61,100.0,22.0
+2026-10-09 23:10:00,Energia,2 - Trânsito Espacial,Acoplado,5348.19,35670.61,100.0,22.0
+2026-10-09 23:10:00,Laboratório,2 - Trânsito Espacial,Acoplado,5348.19,35670.61,100.0,22.0
+2026-10-09 23:15:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,5618.9,39424.47,100.0,22.0
+2026-10-09 23:15:00,Habitação,2 - Trânsito Espacial,Acoplado,5618.9,39424.47,100.0,22.0
+2026-10-09 23:15:00,Logística,2 - Trânsito Espacial,Acoplado,5618.9,39424.47,100.0,22.0
+2026-10-09 23:15:00,Energia,2 - Trânsito Espacial,Acoplado,5618.9,39424.47,100.0,22.0
+2026-10-09 23:15:00,Laboratório,2 - Trânsito Espacial,Acoplado,5618.9,39424.47,100.0,22.0
+2026-10-09 23:20:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,5932.37,38946.28,100.0,22.0
+2026-10-09 23:20:00,Habitação,2 - Trânsito Espacial,Acoplado,5932.37,38946.28,100.0,22.0
+2026-10-09 23:20:00,Logística,2 - Trânsito Espacial,Acoplado,5932.37,38946.28,100.0,22.0
+2026-10-09 23:20:00,Energia,2 - Trânsito Espacial,Acoplado,5932.37,38946.28,100.0,22.0
+2026-10-09 23:20:00,Laboratório,2 - Trânsito Espacial,Acoplado,5932.37,38946.28,100.0,22.0
+2026-10-09 23:25:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,6421.4,39963.67,100.0,22.0
+2026-10-09 23:25:00,Habitação,2 - Trânsito Espacial,Acoplado,6421.4,39963.67,100.0,22.0
+2026-10-09 23:25:00,Logística,2 - Trânsito Espacial,Acoplado,6421.4,39963.67,100.0,22.0
+2026-10-09 23:25:00,Energia,2 - Trânsito Espacial,Acoplado,6421.4,39963.67,100.0,22.0
+2026-10-09 23:25:00,Laboratório,2 - Trânsito Espacial,Acoplado,6421.4,39963.67,100.0,22.0
+2026-10-09 23:30:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,6779.34,37877.6,100.0,22.0
+2026-10-09 23:30:00,Habitação,2 - Trânsito Espacial,Acoplado,6779.34,37877.6,100.0,22.0
+2026-10-09 23:30:00,Logística,2 - Trânsito Espacial,Acoplado,6779.34,37877.6,100.0,22.0
+2026-10-09 23:30:00,Energia,2 - Trânsito Espacial,Acoplado,6779.34,37877.6,100.0,22.0
+2026-10-09 23:30:00,Laboratório,2 - Trânsito Espacial,Acoplado,6779.34,37877.6,100.0,22.0
+2026-10-09 23:35:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,7083.74,37466.59,100.0,22.0
+2026-10-09 23:35:00,Habitação,2 - Trânsito Espacial,Acoplado,7083.74,37466.59,100.0,22.0
+2026-10-09 23:35:00,Logística,2 - Trânsito Espacial,Acoplado,7083.74,37466.59,100.0,22.0
+2026-10-09 23:35:00,Energia,2 - Trânsito Espacial,Acoplado,7083.74,37466.59,100.0,22.0
+2026-10-09 23:35:00,Laboratório,2 - Trânsito Espacial,Acoplado,7083.74,37466.59,100.0,22.0
+2026-10-09 23:40:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,7534.71,37383.65,100.0,22.0
+2026-10-09 23:40:00,Habitação,2 - Trânsito Espacial,Acoplado,7534.71,37383.65,100.0,22.0
+2026-10-09 23:40:00,Logística,2 - Trânsito Espacial,Acoplado,7534.71,37383.65,100.0,22.0
+2026-10-09 23:40:00,Energia,2 - Trânsito Espacial,Acoplado,7534.71,37383.65,100.0,22.0
+2026-10-09 23:40:00,Laboratório,2 - Trânsito Espacial,Acoplado,7534.71,37383.65,100.0,22.0
+2026-10-09 23:45:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,7976.52,37671.59,100.0,22.0
+2026-10-09 23:45:00,Habitação,2 - Trânsito Espacial,Acoplado,7976.52,37671.59,100.0,22.0
+2026-10-09 23:45:00,Logística,2 - Trânsito Espacial,Acoplado,7976.52,37671.59,100.0,22.0
+2026-10-09 23:45:00,Energia,2 - Trânsito Espacial,Acoplado,7976.52,37671.59,100.0,22.0
+2026-10-09 23:45:00,Laboratório,2 - Trânsito Espacial,Acoplado,7976.52,37671.59,100.0,22.0
+2026-10-09 23:50:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,8227.32,37959.89,100.0,22.0
+2026-10-09 23:50:00,Habitação,2 - Trânsito Espacial,Acoplado,8227.32,37959.89,100.0,22.0
+2026-10-09 23:50:00,Logística,2 - Trânsito Espacial,Acoplado,8227.32,37959.89,100.0,22.0
+2026-10-09 23:50:00,Energia,2 - Trânsito Espacial,Acoplado,8227.32,37959.89,100.0,22.0
+2026-10-09 23:50:00,Laboratório,2 - Trânsito Espacial,Acoplado,8227.32,37959.89,100.0,22.0
+2026-10-09 23:55:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,8385.54,37926.48,100.0,22.0
+2026-10-09 23:55:00,Habitação,2 - Trânsito Espacial,Acoplado,8385.54,37926.48,100.0,22.0
+2026-10-09 23:55:00,Logística,2 - Trânsito Espacial,Acoplado,8385.54,37926.48,100.0,22.0
+2026-10-09 23:55:00,Energia,2 - Trânsito Espacial,Acoplado,8385.54,37926.48,100.0,22.0
+2026-10-09 23:55:00,Laboratório,2 - Trânsito Espacial,Acoplado,8385.54,37926.48,100.0,22.0
+2026-10-10 00:00:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,8502.63,39639.4,100.0,22.0
+2026-10-10 00:00:00,Habitação,2 - Trânsito Espacial,Acoplado,8502.63,39639.4,100.0,22.0
+2026-10-10 00:00:00,Logística,2 - Trânsito Espacial,Acoplado,8502.63,39639.4,100.0,22.0
+2026-10-10 00:00:00,Energia,2 - Trânsito Espacial,Acoplado,8502.63,39639.4,100.0,22.0
+2026-10-10 00:00:00,Laboratório,2 - Trânsito Espacial,Acoplado,8502.63,39639.4,100.0,22.0
+2026-10-10 00:05:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,8686.52,36067.77,100.0,22.0
+2026-10-10 00:05:00,Habitação,2 - Trânsito Espacial,Acoplado,8686.52,36067.77,100.0,22.0
+2026-10-10 00:05:00,Logística,2 - Trânsito Espacial,Acoplado,8686.52,36067.77,100.0,22.0
+2026-10-10 00:05:00,Energia,2 - Trânsito Espacial,Acoplado,8686.52,36067.77,100.0,22.0
+2026-10-10 00:05:00,Laboratório,2 - Trânsito Espacial,Acoplado,8686.52,36067.77,100.0,22.0
+2026-10-10 00:10:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,8821.52,37806.43,100.0,22.0
+2026-10-10 00:10:00,Habitação,2 - Trânsito Espacial,Acoplado,8821.52,37806.43,100.0,22.0
+2026-10-10 00:10:00,Logística,2 - Trânsito Espacial,Acoplado,8821.52,37806.43,100.0,22.0
+2026-10-10 00:10:00,Energia,2 - Trânsito Espacial,Acoplado,8821.52,37806.43,100.0,22.0
+2026-10-10 00:10:00,Laboratório,2 - Trânsito Espacial,Acoplado,8821.52,37806.43,100.0,22.0
+2026-10-10 00:15:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,9221.75,35120.82,100.0,22.0
+2026-10-10 00:15:00,Habitação,2 - Trânsito Espacial,Acoplado,9221.75,35120.82,100.0,22.0
+2026-10-10 00:15:00,Logística,2 - Trânsito Espacial,Acoplado,9221.75,35120.82,100.0,22.0
+2026-10-10 00:15:00,Energia,2 - Trânsito Espacial,Acoplado,9221.75,35120.82,100.0,22.0
+2026-10-10 00:15:00,Laboratório,2 - Trânsito Espacial,Acoplado,9221.75,35120.82,100.0,22.0
+2026-10-10 00:20:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,9444.45,38094.52,100.0,22.0
+2026-10-10 00:20:00,Habitação,2 - Trânsito Espacial,Acoplado,9444.45,38094.52,100.0,22.0
+2026-10-10 00:20:00,Logística,2 - Trânsito Espacial,Acoplado,9444.45,38094.52,100.0,22.0
+2026-10-10 00:20:00,Energia,2 - Trânsito Espacial,Acoplado,9444.45,38094.52,100.0,22.0
+2026-10-10 00:20:00,Laboratório,2 - Trânsito Espacial,Acoplado,9444.45,38094.52,100.0,22.0
+2026-10-10 00:25:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,9866.55,36229.08,100.0,22.0
+2026-10-10 00:25:00,Habitação,2 - Trânsito Espacial,Acoplado,9866.55,36229.08,100.0,22.0
+2026-10-10 00:25:00,Logística,2 - Trânsito Espacial,Acoplado,9866.55,36229.08,100.0,22.0
+2026-10-10 00:25:00,Energia,2 - Trânsito Espacial,Acoplado,9866.55,36229.08,100.0,22.0
+2026-10-10 00:25:00,Laboratório,2 - Trânsito Espacial,Acoplado,9866.55,36229.08,100.0,22.0
+2026-10-10 00:30:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,10279.53,37675.84,100.0,22.0
+2026-10-10 00:30:00,Habitação,2 - Trânsito Espacial,Acoplado,10279.53,37675.84,100.0,22.0
+2026-10-10 00:30:00,Logística,2 - Trânsito Espacial,Acoplado,10279.53,37675.84,100.0,22.0
+2026-10-10 00:30:00,Energia,2 - Trânsito Espacial,Acoplado,10279.53,37675.84,100.0,22.0
+2026-10-10 00:30:00,Laboratório,2 - Trânsito Espacial,Acoplado,10279.53,37675.84,100.0,22.0
+2026-10-10 00:35:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,10451.62,39339.01,100.0,22.0
+2026-10-10 00:35:00,Habitação,2 - Trânsito Espacial,Acoplado,10451.62,39339.01,100.0,22.0
+2026-10-10 00:35:00,Logística,2 - Trânsito Espacial,Acoplado,10451.62,39339.01,100.0,22.0
+2026-10-10 00:35:00,Energia,2 - Trânsito Espacial,Acoplado,10451.62,39339.01,100.0,22.0
+2026-10-10 00:35:00,Laboratório,2 - Trânsito Espacial,Acoplado,10451.62,39339.01,100.0,22.0
+2026-10-10 00:40:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,10761.25,37223.5,100.0,22.0
+2026-10-10 00:40:00,Habitação,2 - Trânsito Espacial,Acoplado,10761.25,37223.5,100.0,22.0
+2026-10-10 00:40:00,Logística,2 - Trânsito Espacial,Acoplado,10761.25,37223.5,100.0,22.0
+2026-10-10 00:40:00,Energia,2 - Trânsito Espacial,Acoplado,10761.25,37223.5,100.0,22.0
+2026-10-10 00:40:00,Laboratório,2 - Trânsito Espacial,Acoplado,10761.25,37223.5,100.0,22.0
+2026-10-10 00:45:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,11096.81,38744.55,100.0,22.0
+2026-10-10 00:45:00,Habitação,2 - Trânsito Espacial,Acoplado,11096.81,38744.55,100.0,22.0
+2026-10-10 00:45:00,Logística,2 - Trânsito Espacial,Acoplado,11096.81,38744.55,100.0,22.0
+2026-10-10 00:45:00,Energia,2 - Trânsito Espacial,Acoplado,11096.81,38744.55,100.0,22.0
+2026-10-10 00:45:00,Laboratório,2 - Trânsito Espacial,Acoplado,11096.81,38744.55,100.0,22.0
+2026-10-10 00:50:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,11250.51,38590.68,100.0,22.0
+2026-10-10 00:50:00,Habitação,2 - Trânsito Espacial,Acoplado,11250.51,38590.68,100.0,22.0
+2026-10-10 00:50:00,Logística,2 - Trânsito Espacial,Acoplado,11250.51,38590.68,100.0,22.0
+2026-10-10 00:50:00,Energia,2 - Trânsito Espacial,Acoplado,11250.51,38590.68,100.0,22.0
+2026-10-10 00:50:00,Laboratório,2 - Trânsito Espacial,Acoplado,11250.51,38590.68,100.0,22.0
+2026-10-10 00:55:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,11394.44,37744.57,100.0,22.0
+2026-10-10 00:55:00,Habitação,2 - Trânsito Espacial,Acoplado,11394.44,37744.57,100.0,22.0
+2026-10-10 00:55:00,Logística,2 - Trânsito Espacial,Acoplado,11394.44,37744.57,100.0,22.0
+2026-10-10 00:55:00,Energia,2 - Trânsito Espacial,Acoplado,11394.44,37744.57,100.0,22.0
+2026-10-10 00:55:00,Laboratório,2 - Trânsito Espacial,Acoplado,11394.44,37744.57,100.0,22.0
+2026-10-10 01:00:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,11777.26,37265.96,100.0,22.0
+2026-10-10 01:00:00,Habitação,2 - Trânsito Espacial,Acoplado,11777.26,37265.96,100.0,22.0
+2026-10-10 01:00:00,Logística,2 - Trânsito Espacial,Acoplado,11777.26,37265.96,100.0,22.0
+2026-10-10 01:00:00,Energia,2 - Trânsito Espacial,Acoplado,11777.26,37265.96,100.0,22.0
+2026-10-10 01:00:00,Laboratório,2 - Trânsito Espacial,Acoplado,11777.26,37265.96,100.0,22.0
+2026-10-10 01:05:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,12203.8,36360.36,100.0,22.0
+2026-10-10 01:05:00,Habitação,2 - Trânsito Espacial,Acoplado,12203.8,36360.36,100.0,22.0
+2026-10-10 01:05:00,Logística,2 - Trânsito Espacial,Acoplado,12203.8,36360.36,100.0,22.0
+2026-10-10 01:05:00,Energia,2 - Trânsito Espacial,Acoplado,12203.8,36360.36,100.0,22.0
+2026-10-10 01:05:00,Laboratório,2 - Trânsito Espacial,Acoplado,12203.8,36360.36,100.0,22.0
+2026-10-10 01:10:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,12419.37,37688.37,100.0,22.0
+2026-10-10 01:10:00,Habitação,2 - Trânsito Espacial,Acoplado,12419.37,37688.37,100.0,22.0
+2026-10-10 01:10:00,Logística,2 - Trânsito Espacial,Acoplado,12419.37,37688.37,100.0,22.0
+2026-10-10 01:10:00,Energia,2 - Trânsito Espacial,Acoplado,12419.37,37688.37,100.0,22.0
+2026-10-10 01:10:00,Laboratório,2 - Trânsito Espacial,Acoplado,12419.37,37688.37,100.0,22.0
+2026-10-10 01:15:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,12639.61,36119.99,100.0,22.0
+2026-10-10 01:15:00,Habitação,2 - Trânsito Espacial,Acoplado,12639.61,36119.99,100.0,22.0
+2026-10-10 01:15:00,Logística,2 - Trânsito Espacial,Acoplado,12639.61,36119.99,100.0,22.0
+2026-10-10 01:15:00,Energia,2 - Trânsito Espacial,Acoplado,12639.61,36119.99,100.0,22.0
+2026-10-10 01:15:00,Laboratório,2 - Trânsito Espacial,Acoplado,12639.61,36119.99,100.0,22.0
+2026-10-10 01:20:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,12789.97,35803.12,100.0,22.0
+2026-10-10 01:20:00,Habitação,2 - Trânsito Espacial,Acoplado,12789.97,35803.12,100.0,22.0
+2026-10-10 01:20:00,Logística,2 - Trânsito Espacial,Acoplado,12789.97,35803.12,100.0,22.0
+2026-10-10 01:20:00,Energia,2 - Trânsito Espacial,Acoplado,12789.97,35803.12,100.0,22.0
+2026-10-10 01:20:00,Laboratório,2 - Trânsito Espacial,Acoplado,12789.97,35803.12,100.0,22.0
+2026-10-10 01:25:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,13096.53,38880.28,100.0,22.0
+2026-10-10 01:25:00,Habitação,2 - Trânsito Espacial,Acoplado,13096.53,38880.28,100.0,22.0
+2026-10-10 01:25:00,Logística,2 - Trânsito Espacial,Acoplado,13096.53,38880.28,100.0,22.0
+2026-10-10 01:25:00,Energia,2 - Trânsito Espacial,Acoplado,13096.53,38880.28,100.0,22.0
+2026-10-10 01:25:00,Laboratório,2 - Trânsito Espacial,Acoplado,13096.53,38880.28,100.0,22.0
+2026-10-10 01:30:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,13508.74,39692.02,100.0,22.0
+2026-10-10 01:30:00,Habitação,2 - Trânsito Espacial,Acoplado,13508.74,39692.02,100.0,22.0
+2026-10-10 01:30:00,Logística,2 - Trânsito Espacial,Acoplado,13508.74,39692.02,100.0,22.0
+2026-10-10 01:30:00,Energia,2 - Trânsito Espacial,Acoplado,13508.74,39692.02,100.0,22.0
+2026-10-10 01:30:00,Laboratório,2 - Trânsito Espacial,Acoplado,13508.74,39692.02,100.0,22.0
+2026-10-10 01:35:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,13852.8,35957.61,100.0,22.0
+2026-10-10 01:35:00,Habitação,2 - Trânsito Espacial,Acoplado,13852.8,35957.61,100.0,22.0
+2026-10-10 01:35:00,Logística,2 - Trânsito Espacial,Acoplado,13852.8,35957.61,100.0,22.0
+2026-10-10 01:35:00,Energia,2 - Trânsito Espacial,Acoplado,13852.8,35957.61,100.0,22.0
+2026-10-10 01:35:00,Laboratório,2 - Trânsito Espacial,Acoplado,13852.8,35957.61,100.0,22.0
+2026-10-10 01:40:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,14312.65,36497.45,100.0,22.0
+2026-10-10 01:40:00,Habitação,2 - Trânsito Espacial,Acoplado,14312.65,36497.45,100.0,22.0
+2026-10-10 01:40:00,Logística,2 - Trânsito Espacial,Acoplado,14312.65,36497.45,100.0,22.0
+2026-10-10 01:40:00,Energia,2 - Trânsito Espacial,Acoplado,14312.65,36497.45,100.0,22.0
+2026-10-10 01:40:00,Laboratório,2 - Trânsito Espacial,Acoplado,14312.65,36497.45,100.0,22.0
+2026-10-10 01:45:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,14504.71,38775.37,100.0,22.0
+2026-10-10 01:45:00,Habitação,2 - Trânsito Espacial,Acoplado,14504.71,38775.37,100.0,22.0
+2026-10-10 01:45:00,Logística,2 - Trânsito Espacial,Acoplado,14504.71,38775.37,100.0,22.0
+2026-10-10 01:45:00,Energia,2 - Trânsito Espacial,Acoplado,14504.71,38775.37,100.0,22.0
+2026-10-10 01:45:00,Laboratório,2 - Trânsito Espacial,Acoplado,14504.71,38775.37,100.0,22.0
+2026-10-10 01:50:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,14638.51,39289.35,100.0,22.0
+2026-10-10 01:50:00,Habitação,2 - Trânsito Espacial,Acoplado,14638.51,39289.35,100.0,22.0
+2026-10-10 01:50:00,Logística,2 - Trânsito Espacial,Acoplado,14638.51,39289.35,100.0,22.0
+2026-10-10 01:50:00,Energia,2 - Trânsito Espacial,Acoplado,14638.51,39289.35,100.0,22.0
+2026-10-10 01:50:00,Laboratório,2 - Trânsito Espacial,Acoplado,14638.51,39289.35,100.0,22.0
+2026-10-10 01:55:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,15109.18,37313.38,100.0,22.0
+2026-10-10 01:55:00,Habitação,2 - Trânsito Espacial,Acoplado,15109.18,37313.38,100.0,22.0
+2026-10-10 01:55:00,Logística,2 - Trânsito Espacial,Acoplado,15109.18,37313.38,100.0,22.0
+2026-10-10 01:55:00,Energia,2 - Trânsito Espacial,Acoplado,15109.18,37313.38,100.0,22.0
+2026-10-10 01:55:00,Laboratório,2 - Trânsito Espacial,Acoplado,15109.18,37313.38,100.0,22.0
+2026-10-10 02:00:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,15416.13,35062.24,100.0,22.0
+2026-10-10 02:00:00,Habitação,2 - Trânsito Espacial,Acoplado,15416.13,35062.24,100.0,22.0
+2026-10-10 02:00:00,Logística,2 - Trânsito Espacial,Acoplado,15416.13,35062.24,100.0,22.0
+2026-10-10 02:00:00,Energia,2 - Trânsito Espacial,Acoplado,15416.13,35062.24,100.0,22.0
+2026-10-10 02:00:00,Laboratório,2 - Trânsito Espacial,Acoplado,15416.13,35062.24,100.0,22.0
+2026-10-10 02:05:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,15661.89,35332.45,100.0,22.0
+2026-10-10 02:05:00,Habitação,2 - Trânsito Espacial,Acoplado,15661.89,35332.45,100.0,22.0
+2026-10-10 02:05:00,Logística,2 - Trânsito Espacial,Acoplado,15661.89,35332.45,100.0,22.0
+2026-10-10 02:05:00,Energia,2 - Trânsito Espacial,Acoplado,15661.89,35332.45,100.0,22.0
+2026-10-10 02:05:00,Laboratório,2 - Trânsito Espacial,Acoplado,15661.89,35332.45,100.0,22.0
+2026-10-10 02:10:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,16121.86,37278.94,100.0,22.0
+2026-10-10 02:10:00,Habitação,2 - Trânsito Espacial,Acoplado,16121.86,37278.94,100.0,22.0
+2026-10-10 02:10:00,Logística,2 - Trânsito Espacial,Acoplado,16121.86,37278.94,100.0,22.0
+2026-10-10 02:10:00,Energia,2 - Trânsito Espacial,Acoplado,16121.86,37278.94,100.0,22.0
+2026-10-10 02:10:00,Laboratório,2 - Trânsito Espacial,Acoplado,16121.86,37278.94,100.0,22.0
+2026-10-10 02:15:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,16590.45,38977.64,100.0,22.0
+2026-10-10 02:15:00,Habitação,2 - Trânsito Espacial,Acoplado,16590.45,38977.64,100.0,22.0
+2026-10-10 02:15:00,Logística,2 - Trânsito Espacial,Acoplado,16590.45,38977.64,100.0,22.0
+2026-10-10 02:15:00,Energia,2 - Trânsito Espacial,Acoplado,16590.45,38977.64,100.0,22.0
+2026-10-10 02:15:00,Laboratório,2 - Trânsito Espacial,Acoplado,16590.45,38977.64,100.0,22.0
+2026-10-10 02:20:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,16868.16,36838.48,100.0,22.0
+2026-10-10 02:20:00,Habitação,2 - Trânsito Espacial,Acoplado,16868.16,36838.48,100.0,22.0
+2026-10-10 02:20:00,Logística,2 - Trânsito Espacial,Acoplado,16868.16,36838.48,100.0,22.0
+2026-10-10 02:20:00,Energia,2 - Trânsito Espacial,Acoplado,16868.16,36838.48,100.0,22.0
+2026-10-10 02:20:00,Laboratório,2 - Trânsito Espacial,Acoplado,16868.16,36838.48,100.0,22.0
+2026-10-10 02:25:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,17202.83,38411.59,100.0,22.0
+2026-10-10 02:25:00,Habitação,2 - Trânsito Espacial,Acoplado,17202.83,38411.59,100.0,22.0
+2026-10-10 02:25:00,Logística,2 - Trânsito Espacial,Acoplado,17202.83,38411.59,100.0,22.0
+2026-10-10 02:25:00,Energia,2 - Trânsito Espacial,Acoplado,17202.83,38411.59,100.0,22.0
+2026-10-10 02:25:00,Laboratório,2 - Trânsito Espacial,Acoplado,17202.83,38411.59,100.0,22.0
+2026-10-10 02:30:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,17693.47,36569.24,100.0,22.0
+2026-10-10 02:30:00,Habitação,2 - Trânsito Espacial,Acoplado,17693.47,36569.24,100.0,22.0
+2026-10-10 02:30:00,Logística,2 - Trânsito Espacial,Acoplado,17693.47,36569.24,100.0,22.0
+2026-10-10 02:30:00,Energia,2 - Trânsito Espacial,Acoplado,17693.47,36569.24,100.0,22.0
+2026-10-10 02:30:00,Laboratório,2 - Trânsito Espacial,Acoplado,17693.47,36569.24,100.0,22.0
+2026-10-10 02:35:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,18086.66,35019.77,100.0,22.0
+2026-10-10 02:35:00,Habitação,2 - Trânsito Espacial,Acoplado,18086.66,35019.77,100.0,22.0
+2026-10-10 02:35:00,Logística,2 - Trânsito Espacial,Acoplado,18086.66,35019.77,100.0,22.0
+2026-10-10 02:35:00,Energia,2 - Trânsito Espacial,Acoplado,18086.66,35019.77,100.0,22.0
+2026-10-10 02:35:00,Laboratório,2 - Trânsito Espacial,Acoplado,18086.66,35019.77,100.0,22.0
+2026-10-10 02:40:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,18512.62,38171.47,100.0,22.0
+2026-10-10 02:40:00,Habitação,2 - Trânsito Espacial,Acoplado,18512.62,38171.47,100.0,22.0
+2026-10-10 02:40:00,Logística,2 - Trânsito Espacial,Acoplado,18512.62,38171.47,100.0,22.0
+2026-10-10 02:40:00,Energia,2 - Trânsito Espacial,Acoplado,18512.62,38171.47,100.0,22.0
+2026-10-10 02:40:00,Laboratório,2 - Trânsito Espacial,Acoplado,18512.62,38171.47,100.0,22.0
+2026-10-10 02:45:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,18626.98,39489.88,100.0,22.0
+2026-10-10 02:45:00,Habitação,2 - Trânsito Espacial,Acoplado,18626.98,39489.88,100.0,22.0
+2026-10-10 02:45:00,Logística,2 - Trânsito Espacial,Acoplado,18626.98,39489.88,100.0,22.0
+2026-10-10 02:45:00,Energia,2 - Trânsito Espacial,Acoplado,18626.98,39489.88,100.0,22.0
+2026-10-10 02:45:00,Laboratório,2 - Trânsito Espacial,Acoplado,18626.98,39489.88,100.0,22.0
+2026-10-10 02:50:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,18772.84,39909.03,100.0,22.0
+2026-10-10 02:50:00,Habitação,2 - Trânsito Espacial,Acoplado,18772.84,39909.03,100.0,22.0
+2026-10-10 02:50:00,Logística,2 - Trânsito Espacial,Acoplado,18772.84,39909.03,100.0,22.0
+2026-10-10 02:50:00,Energia,2 - Trânsito Espacial,Acoplado,18772.84,39909.03,100.0,22.0
+2026-10-10 02:50:00,Laboratório,2 - Trânsito Espacial,Acoplado,18772.84,39909.03,100.0,22.0
+2026-10-10 02:55:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,18890.22,37399.31,100.0,22.0
+2026-10-10 02:55:00,Habitação,2 - Trânsito Espacial,Acoplado,18890.22,37399.31,100.0,22.0
+2026-10-10 02:55:00,Logística,2 - Trânsito Espacial,Acoplado,18890.22,37399.31,100.0,22.0
+2026-10-10 02:55:00,Energia,2 - Trânsito Espacial,Acoplado,18890.22,37399.31,100.0,22.0
+2026-10-10 02:55:00,Laboratório,2 - Trânsito Espacial,Acoplado,18890.22,37399.31,100.0,22.0
+2026-10-10 03:00:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,19244.09,38542.79,100.0,22.0
+2026-10-10 03:00:00,Habitação,2 - Trânsito Espacial,Acoplado,19244.09,38542.79,100.0,22.0
+2026-10-10 03:00:00,Logística,2 - Trânsito Espacial,Acoplado,19244.09,38542.79,100.0,22.0
+2026-10-10 03:00:00,Energia,2 - Trânsito Espacial,Acoplado,19244.09,38542.79,100.0,22.0
+2026-10-10 03:00:00,Laboratório,2 - Trânsito Espacial,Acoplado,19244.09,38542.79,100.0,22.0
+2026-10-10 03:05:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,19428.38,37072.57,100.0,22.0
+2026-10-10 03:05:00,Habitação,2 - Trânsito Espacial,Acoplado,19428.38,37072.57,100.0,22.0
+2026-10-10 03:05:00,Logística,2 - Trânsito Espacial,Acoplado,19428.38,37072.57,100.0,22.0
+2026-10-10 03:05:00,Energia,2 - Trânsito Espacial,Acoplado,19428.38,37072.57,100.0,22.0
+2026-10-10 03:05:00,Laboratório,2 - Trânsito Espacial,Acoplado,19428.38,37072.57,100.0,22.0
+2026-10-10 03:10:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,19896.49,38372.49,100.0,22.0
+2026-10-10 03:10:00,Habitação,2 - Trânsito Espacial,Acoplado,19896.49,38372.49,100.0,22.0
+2026-10-10 03:10:00,Logística,2 - Trânsito Espacial,Acoplado,19896.49,38372.49,100.0,22.0
+2026-10-10 03:10:00,Energia,2 - Trânsito Espacial,Acoplado,19896.49,38372.49,100.0,22.0
+2026-10-10 03:10:00,Laboratório,2 - Trânsito Espacial,Acoplado,19896.49,38372.49,100.0,22.0
+2026-10-10 03:15:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,20344.24,39398.58,100.0,22.0
+2026-10-10 03:15:00,Habitação,2 - Trânsito Espacial,Acoplado,20344.24,39398.58,100.0,22.0
+2026-10-10 03:15:00,Logística,2 - Trânsito Espacial,Acoplado,20344.24,39398.58,100.0,22.0
+2026-10-10 03:15:00,Energia,2 - Trânsito Espacial,Acoplado,20344.24,39398.58,100.0,22.0
+2026-10-10 03:15:00,Laboratório,2 - Trânsito Espacial,Acoplado,20344.24,39398.58,100.0,22.0
+2026-10-10 03:20:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,20666.05,36399.57,100.0,22.0
+2026-10-10 03:20:00,Habitação,2 - Trânsito Espacial,Acoplado,20666.05,36399.57,100.0,22.0
+2026-10-10 03:20:00,Logística,2 - Trânsito Espacial,Acoplado,20666.05,36399.57,100.0,22.0
+2026-10-10 03:20:00,Energia,2 - Trânsito Espacial,Acoplado,20666.05,36399.57,100.0,22.0
+2026-10-10 03:20:00,Laboratório,2 - Trânsito Espacial,Acoplado,20666.05,36399.57,100.0,22.0
+2026-10-10 03:25:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,21056.06,37454.73,100.0,22.0
+2026-10-10 03:25:00,Habitação,2 - Trânsito Espacial,Acoplado,21056.06,37454.73,100.0,22.0
+2026-10-10 03:25:00,Logística,2 - Trânsito Espacial,Acoplado,21056.06,37454.73,100.0,22.0
+2026-10-10 03:25:00,Energia,2 - Trânsito Espacial,Acoplado,21056.06,37454.73,100.0,22.0
+2026-10-10 03:25:00,Laboratório,2 - Trânsito Espacial,Acoplado,21056.06,37454.73,100.0,22.0
+2026-10-10 03:30:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,21214.63,36519.55,100.0,22.0
+2026-10-10 03:30:00,Habitação,2 - Trânsito Espacial,Acoplado,21214.63,36519.55,100.0,22.0
+2026-10-10 03:30:00,Logística,2 - Trânsito Espacial,Acoplado,21214.63,36519.55,100.0,22.0
+2026-10-10 03:30:00,Energia,2 - Trânsito Espacial,Acoplado,21214.63,36519.55,100.0,22.0
+2026-10-10 03:30:00,Laboratório,2 - Trânsito Espacial,Acoplado,21214.63,36519.55,100.0,22.0
+2026-10-10 03:35:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,21347.84,39453.48,100.0,22.0
+2026-10-10 03:35:00,Habitação,2 - Trânsito Espacial,Acoplado,21347.84,39453.48,100.0,22.0
+2026-10-10 03:35:00,Logística,2 - Trânsito Espacial,Acoplado,21347.84,39453.48,100.0,22.0
+2026-10-10 03:35:00,Energia,2 - Trânsito Espacial,Acoplado,21347.84,39453.48,100.0,22.0
+2026-10-10 03:35:00,Laboratório,2 - Trânsito Espacial,Acoplado,21347.84,39453.48,100.0,22.0
+2026-10-10 03:40:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,21455.67,37566.57,100.0,22.0
+2026-10-10 03:40:00,Habitação,2 - Trânsito Espacial,Acoplado,21455.67,37566.57,100.0,22.0
+2026-10-10 03:40:00,Logística,2 - Trânsito Espacial,Acoplado,21455.67,37566.57,100.0,22.0
+2026-10-10 03:40:00,Energia,2 - Trânsito Espacial,Acoplado,21455.67,37566.57,100.0,22.0
+2026-10-10 03:40:00,Laboratório,2 - Trânsito Espacial,Acoplado,21455.67,37566.57,100.0,22.0
+2026-10-10 03:45:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,21943.86,38286.27,100.0,22.0
+2026-10-10 03:45:00,Habitação,2 - Trânsito Espacial,Acoplado,21943.86,38286.27,100.0,22.0
+2026-10-10 03:45:00,Logística,2 - Trânsito Espacial,Acoplado,21943.86,38286.27,100.0,22.0
+2026-10-10 03:45:00,Energia,2 - Trânsito Espacial,Acoplado,21943.86,38286.27,100.0,22.0
+2026-10-10 03:45:00,Laboratório,2 - Trânsito Espacial,Acoplado,21943.86,38286.27,100.0,22.0
+2026-10-10 03:50:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,22058.58,36973.06,100.0,22.0
+2026-10-10 03:50:00,Habitação,2 - Trânsito Espacial,Acoplado,22058.58,36973.06,100.0,22.0
+2026-10-10 03:50:00,Logística,2 - Trânsito Espacial,Acoplado,22058.58,36973.06,100.0,22.0
+2026-10-10 03:50:00,Energia,2 - Trânsito Espacial,Acoplado,22058.58,36973.06,100.0,22.0
+2026-10-10 03:50:00,Laboratório,2 - Trânsito Espacial,Acoplado,22058.58,36973.06,100.0,22.0
+2026-10-10 03:55:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,22423.84,37701.44,100.0,22.0
+2026-10-10 03:55:00,Habitação,2 - Trânsito Espacial,Acoplado,22423.84,37701.44,100.0,22.0
+2026-10-10 03:55:00,Logística,2 - Trânsito Espacial,Acoplado,22423.84,37701.44,100.0,22.0
+2026-10-10 03:55:00,Energia,2 - Trânsito Espacial,Acoplado,22423.84,37701.44,100.0,22.0
+2026-10-10 03:55:00,Laboratório,2 - Trânsito Espacial,Acoplado,22423.84,37701.44,100.0,22.0
+2026-10-10 04:00:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,22872.23,38623.98,100.0,22.0
+2026-10-10 04:00:00,Habitação,2 - Trânsito Espacial,Acoplado,22872.23,38623.98,100.0,22.0
+2026-10-10 04:00:00,Logística,2 - Trânsito Espacial,Acoplado,22872.23,38623.98,100.0,22.0
+2026-10-10 04:00:00,Energia,2 - Trânsito Espacial,Acoplado,22872.23,38623.98,100.0,22.0
+2026-10-10 04:00:00,Laboratório,2 - Trânsito Espacial,Acoplado,22872.23,38623.98,100.0,22.0
+2026-10-10 04:05:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,23357.89,35649.9,100.0,22.0
+2026-10-10 04:05:00,Habitação,2 - Trânsito Espacial,Acoplado,23357.89,35649.9,100.0,22.0
+2026-10-10 04:05:00,Logística,2 - Trânsito Espacial,Acoplado,23357.89,35649.9,100.0,22.0
+2026-10-10 04:05:00,Energia,2 - Trânsito Espacial,Acoplado,23357.89,35649.9,100.0,22.0
+2026-10-10 04:05:00,Laboratório,2 - Trânsito Espacial,Acoplado,23357.89,35649.9,100.0,22.0
+2026-10-10 04:10:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,23613.0,36700.77,100.0,22.0
+2026-10-10 04:10:00,Habitação,2 - Trânsito Espacial,Acoplado,23613.0,36700.77,100.0,22.0
+2026-10-10 04:10:00,Logística,2 - Trânsito Espacial,Acoplado,23613.0,36700.77,100.0,22.0
+2026-10-10 04:10:00,Energia,2 - Trânsito Espacial,Acoplado,23613.0,36700.77,100.0,22.0
+2026-10-10 04:10:00,Laboratório,2 - Trânsito Espacial,Acoplado,23613.0,36700.77,100.0,22.0
+2026-10-10 04:15:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,24054.81,37787.51,100.0,22.0
+2026-10-10 04:15:00,Habitação,2 - Trânsito Espacial,Acoplado,24054.81,37787.51,100.0,22.0
+2026-10-10 04:15:00,Logística,2 - Trânsito Espacial,Acoplado,24054.81,37787.51,100.0,22.0
+2026-10-10 04:15:00,Energia,2 - Trânsito Espacial,Acoplado,24054.81,37787.51,100.0,22.0
+2026-10-10 04:15:00,Laboratório,2 - Trânsito Espacial,Acoplado,24054.81,37787.51,100.0,22.0
+2026-10-10 04:20:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,24456.31,35026.66,100.0,22.0
+2026-10-10 04:20:00,Habitação,2 - Trânsito Espacial,Acoplado,24456.31,35026.66,100.0,22.0
+2026-10-10 04:20:00,Logística,2 - Trânsito Espacial,Acoplado,24456.31,35026.66,100.0,22.0
+2026-10-10 04:20:00,Energia,2 - Trânsito Espacial,Acoplado,24456.31,35026.66,100.0,22.0
+2026-10-10 04:20:00,Laboratório,2 - Trânsito Espacial,Acoplado,24456.31,35026.66,100.0,22.0
+2026-10-10 04:25:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,24817.93,37969.62,100.0,22.0
+2026-10-10 04:25:00,Habitação,2 - Trânsito Espacial,Acoplado,24817.93,37969.62,100.0,22.0
+2026-10-10 04:25:00,Logística,2 - Trânsito Espacial,Acoplado,24817.93,37969.62,100.0,22.0
+2026-10-10 04:25:00,Energia,2 - Trânsito Espacial,Acoplado,24817.93,37969.62,100.0,22.0
+2026-10-10 04:25:00,Laboratório,2 - Trânsito Espacial,Acoplado,24817.93,37969.62,100.0,22.0
+2026-10-10 04:30:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,25223.5,37381.18,100.0,22.0
+2026-10-10 04:30:00,Habitação,2 - Trânsito Espacial,Acoplado,25223.5,37381.18,100.0,22.0
+2026-10-10 04:30:00,Logística,2 - Trânsito Espacial,Acoplado,25223.5,37381.18,100.0,22.0
+2026-10-10 04:30:00,Energia,2 - Trânsito Espacial,Acoplado,25223.5,37381.18,100.0,22.0
+2026-10-10 04:30:00,Laboratório,2 - Trânsito Espacial,Acoplado,25223.5,37381.18,100.0,22.0
+2026-10-10 04:35:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,25481.26,39516.63,100.0,22.0
+2026-10-10 04:35:00,Habitação,2 - Trânsito Espacial,Acoplado,25481.26,39516.63,100.0,22.0
+2026-10-10 04:35:00,Logística,2 - Trânsito Espacial,Acoplado,25481.26,39516.63,100.0,22.0
+2026-10-10 04:35:00,Energia,2 - Trânsito Espacial,Acoplado,25481.26,39516.63,100.0,22.0
+2026-10-10 04:35:00,Laboratório,2 - Trânsito Espacial,Acoplado,25481.26,39516.63,100.0,22.0
+2026-10-10 04:40:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,25679.34,37542.33,100.0,22.0
+2026-10-10 04:40:00,Habitação,2 - Trânsito Espacial,Acoplado,25679.34,37542.33,100.0,22.0
+2026-10-10 04:40:00,Logística,2 - Trânsito Espacial,Acoplado,25679.34,37542.33,100.0,22.0
+2026-10-10 04:40:00,Energia,2 - Trânsito Espacial,Acoplado,25679.34,37542.33,100.0,22.0
+2026-10-10 04:40:00,Laboratório,2 - Trânsito Espacial,Acoplado,25679.34,37542.33,100.0,22.0
+2026-10-10 04:45:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,26113.89,37580.5,100.0,22.0
+2026-10-10 04:45:00,Habitação,2 - Trânsito Espacial,Acoplado,26113.89,37580.5,100.0,22.0
+2026-10-10 04:45:00,Logística,2 - Trânsito Espacial,Acoplado,26113.89,37580.5,100.0,22.0
+2026-10-10 04:45:00,Energia,2 - Trânsito Espacial,Acoplado,26113.89,37580.5,100.0,22.0
+2026-10-10 04:45:00,Laboratório,2 - Trânsito Espacial,Acoplado,26113.89,37580.5,100.0,22.0
+2026-10-10 04:50:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,26317.06,39186.85,100.0,22.0
+2026-10-10 04:50:00,Habitação,2 - Trânsito Espacial,Acoplado,26317.06,39186.85,100.0,22.0
+2026-10-10 04:50:00,Logística,2 - Trânsito Espacial,Acoplado,26317.06,39186.85,100.0,22.0
+2026-10-10 04:50:00,Energia,2 - Trânsito Espacial,Acoplado,26317.06,39186.85,100.0,22.0
+2026-10-10 04:50:00,Laboratório,2 - Trânsito Espacial,Acoplado,26317.06,39186.85,100.0,22.0
+2026-10-10 04:55:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,26669.32,38919.15,100.0,22.0
+2026-10-10 04:55:00,Habitação,2 - Trânsito Espacial,Acoplado,26669.32,38919.15,100.0,22.0
+2026-10-10 04:55:00,Logística,2 - Trânsito Espacial,Acoplado,26669.32,38919.15,100.0,22.0
+2026-10-10 04:55:00,Energia,2 - Trânsito Espacial,Acoplado,26669.32,38919.15,100.0,22.0
+2026-10-10 04:55:00,Laboratório,2 - Trânsito Espacial,Acoplado,26669.32,38919.15,100.0,22.0
+2026-10-10 05:00:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,27017.48,35766.92,100.0,22.0
+2026-10-10 05:00:00,Habitação,2 - Trânsito Espacial,Acoplado,27017.48,35766.92,100.0,22.0
+2026-10-10 05:00:00,Logística,2 - Trânsito Espacial,Acoplado,27017.48,35766.92,100.0,22.0
+2026-10-10 05:00:00,Energia,2 - Trânsito Espacial,Acoplado,27017.48,35766.92,100.0,22.0
+2026-10-10 05:00:00,Laboratório,2 - Trânsito Espacial,Acoplado,27017.48,35766.92,100.0,22.0
+2026-10-10 05:05:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,27456.2,35459.7,100.0,22.0
+2026-10-10 05:05:00,Habitação,2 - Trânsito Espacial,Acoplado,27456.2,35459.7,100.0,22.0
+2026-10-10 05:05:00,Logística,2 - Trânsito Espacial,Acoplado,27456.2,35459.7,100.0,22.0
+2026-10-10 05:05:00,Energia,2 - Trânsito Espacial,Acoplado,27456.2,35459.7,100.0,22.0
+2026-10-10 05:05:00,Laboratório,2 - Trânsito Espacial,Acoplado,27456.2,35459.7,100.0,22.0
+2026-10-10 05:10:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,27730.43,39100.98,100.0,22.0
+2026-10-10 05:10:00,Habitação,2 - Trânsito Espacial,Acoplado,27730.43,39100.98,100.0,22.0
+2026-10-10 05:10:00,Logística,2 - Trânsito Espacial,Acoplado,27730.43,39100.98,100.0,22.0
+2026-10-10 05:10:00,Energia,2 - Trânsito Espacial,Acoplado,27730.43,39100.98,100.0,22.0
+2026-10-10 05:10:00,Laboratório,2 - Trânsito Espacial,Acoplado,27730.43,39100.98,100.0,22.0
+2026-10-10 05:15:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,27976.12,36713.63,100.0,22.0
+2026-10-10 05:15:00,Habitação,2 - Trânsito Espacial,Acoplado,27976.12,36713.63,100.0,22.0
+2026-10-10 05:15:00,Logística,2 - Trânsito Espacial,Acoplado,27976.12,36713.63,100.0,22.0
+2026-10-10 05:15:00,Energia,2 - Trânsito Espacial,Acoplado,27976.12,36713.63,100.0,22.0
+2026-10-10 05:15:00,Laboratório,2 - Trânsito Espacial,Acoplado,27976.12,36713.63,100.0,22.0
+2026-10-10 05:20:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,28373.0,35876.58,100.0,22.0
+2026-10-10 05:20:00,Habitação,2 - Trânsito Espacial,Acoplado,28373.0,35876.58,100.0,22.0
+2026-10-10 05:20:00,Logística,2 - Trânsito Espacial,Acoplado,28373.0,35876.58,100.0,22.0
+2026-10-10 05:20:00,Energia,2 - Trânsito Espacial,Acoplado,28373.0,35876.58,100.0,22.0
+2026-10-10 05:20:00,Laboratório,2 - Trânsito Espacial,Acoplado,28373.0,35876.58,100.0,22.0
+2026-10-10 05:25:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,28765.82,39749.3,100.0,22.0
+2026-10-10 05:25:00,Habitação,2 - Trânsito Espacial,Acoplado,28765.82,39749.3,100.0,22.0
+2026-10-10 05:25:00,Logística,2 - Trânsito Espacial,Acoplado,28765.82,39749.3,100.0,22.0
+2026-10-10 05:25:00,Energia,2 - Trânsito Espacial,Acoplado,28765.82,39749.3,100.0,22.0
+2026-10-10 05:25:00,Laboratório,2 - Trânsito Espacial,Acoplado,28765.82,39749.3,100.0,22.0
+2026-10-10 05:30:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,29098.29,37458.15,100.0,22.0
+2026-10-10 05:30:00,Habitação,2 - Trânsito Espacial,Acoplado,29098.29,37458.15,100.0,22.0
+2026-10-10 05:30:00,Logística,2 - Trânsito Espacial,Acoplado,29098.29,37458.15,100.0,22.0
+2026-10-10 05:30:00,Energia,2 - Trânsito Espacial,Acoplado,29098.29,37458.15,100.0,22.0
+2026-10-10 05:30:00,Laboratório,2 - Trânsito Espacial,Acoplado,29098.29,37458.15,100.0,22.0
+2026-10-10 05:35:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,29523.19,39235.11,100.0,22.0
+2026-10-10 05:35:00,Habitação,2 - Trânsito Espacial,Acoplado,29523.19,39235.11,100.0,22.0
+2026-10-10 05:35:00,Logística,2 - Trânsito Espacial,Acoplado,29523.19,39235.11,100.0,22.0
+2026-10-10 05:35:00,Energia,2 - Trânsito Espacial,Acoplado,29523.19,39235.11,100.0,22.0
+2026-10-10 05:35:00,Laboratório,2 - Trânsito Espacial,Acoplado,29523.19,39235.11,100.0,22.0
+2026-10-10 05:40:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,29859.87,35201.22,100.0,22.0
+2026-10-10 05:40:00,Habitação,2 - Trânsito Espacial,Acoplado,29859.87,35201.22,100.0,22.0
+2026-10-10 05:40:00,Logística,2 - Trânsito Espacial,Acoplado,29859.87,35201.22,100.0,22.0
+2026-10-10 05:40:00,Energia,2 - Trânsito Espacial,Acoplado,29859.87,35201.22,100.0,22.0
+2026-10-10 05:40:00,Laboratório,2 - Trânsito Espacial,Acoplado,29859.87,35201.22,100.0,22.0
+2026-10-10 05:45:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,30060.83,38350.06,100.0,22.0
+2026-10-10 05:45:00,Habitação,2 - Trânsito Espacial,Acoplado,30060.83,38350.06,100.0,22.0
+2026-10-10 05:45:00,Logística,2 - Trânsito Espacial,Acoplado,30060.83,38350.06,100.0,22.0
+2026-10-10 05:45:00,Energia,2 - Trânsito Espacial,Acoplado,30060.83,38350.06,100.0,22.0
+2026-10-10 05:45:00,Laboratório,2 - Trânsito Espacial,Acoplado,30060.83,38350.06,100.0,22.0
+2026-10-10 05:50:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,30183.76,39824.61,100.0,22.0
+2026-10-10 05:50:00,Habitação,2 - Trânsito Espacial,Acoplado,30183.76,39824.61,100.0,22.0
+2026-10-10 05:50:00,Logística,2 - Trânsito Espacial,Acoplado,30183.76,39824.61,100.0,22.0
+2026-10-10 05:50:00,Energia,2 - Trânsito Espacial,Acoplado,30183.76,39824.61,100.0,22.0
+2026-10-10 05:50:00,Laboratório,2 - Trânsito Espacial,Acoplado,30183.76,39824.61,100.0,22.0
+2026-10-10 05:55:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,30370.09,36484.33,100.0,22.0
+2026-10-10 05:55:00,Habitação,2 - Trânsito Espacial,Acoplado,30370.09,36484.33,100.0,22.0
+2026-10-10 05:55:00,Logística,2 - Trânsito Espacial,Acoplado,30370.09,36484.33,100.0,22.0
+2026-10-10 05:55:00,Energia,2 - Trânsito Espacial,Acoplado,30370.09,36484.33,100.0,22.0
+2026-10-10 05:55:00,Laboratório,2 - Trânsito Espacial,Acoplado,30370.09,36484.33,100.0,22.0
+2026-10-10 06:00:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,30817.57,39862.99,100.0,22.0
+2026-10-10 06:00:00,Habitação,2 - Trânsito Espacial,Acoplado,30817.57,39862.99,100.0,22.0
+2026-10-10 06:00:00,Logística,2 - Trânsito Espacial,Acoplado,30817.57,39862.99,100.0,22.0
+2026-10-10 06:00:00,Energia,2 - Trânsito Espacial,Acoplado,30817.57,39862.99,100.0,22.0
+2026-10-10 06:00:00,Laboratório,2 - Trânsito Espacial,Acoplado,30817.57,39862.99,100.0,22.0
+2026-10-10 06:05:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,31009.19,39200.86,100.0,22.0
+2026-10-10 06:05:00,Habitação,2 - Trânsito Espacial,Acoplado,31009.19,39200.86,100.0,22.0
+2026-10-10 06:05:00,Logística,2 - Trânsito Espacial,Acoplado,31009.19,39200.86,100.0,22.0
+2026-10-10 06:05:00,Energia,2 - Trânsito Espacial,Acoplado,31009.19,39200.86,100.0,22.0
+2026-10-10 06:05:00,Laboratório,2 - Trânsito Espacial,Acoplado,31009.19,39200.86,100.0,22.0
+2026-10-10 06:10:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,31473.22,39340.59,100.0,22.0
+2026-10-10 06:10:00,Habitação,2 - Trânsito Espacial,Acoplado,31473.22,39340.59,100.0,22.0
+2026-10-10 06:10:00,Logística,2 - Trânsito Espacial,Acoplado,31473.22,39340.59,100.0,22.0
+2026-10-10 06:10:00,Energia,2 - Trânsito Espacial,Acoplado,31473.22,39340.59,100.0,22.0
+2026-10-10 06:10:00,Laboratório,2 - Trânsito Espacial,Acoplado,31473.22,39340.59,100.0,22.0
+2026-10-10 06:15:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,31631.12,38488.54,100.0,22.0
+2026-10-10 06:15:00,Habitação,2 - Trânsito Espacial,Acoplado,31631.12,38488.54,100.0,22.0
+2026-10-10 06:15:00,Logística,2 - Trânsito Espacial,Acoplado,31631.12,38488.54,100.0,22.0
+2026-10-10 06:15:00,Energia,2 - Trânsito Espacial,Acoplado,31631.12,38488.54,100.0,22.0
+2026-10-10 06:15:00,Laboratório,2 - Trânsito Espacial,Acoplado,31631.12,38488.54,100.0,22.0
+2026-10-10 06:20:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,31769.22,39182.79,100.0,22.0
+2026-10-10 06:20:00,Habitação,2 - Trânsito Espacial,Acoplado,31769.22,39182.79,100.0,22.0
+2026-10-10 06:20:00,Logística,2 - Trânsito Espacial,Acoplado,31769.22,39182.79,100.0,22.0
+2026-10-10 06:20:00,Energia,2 - Trânsito Espacial,Acoplado,31769.22,39182.79,100.0,22.0
+2026-10-10 06:20:00,Laboratório,2 - Trânsito Espacial,Acoplado,31769.22,39182.79,100.0,22.0
+2026-10-10 06:25:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,31985.5,35562.7,100.0,22.0
+2026-10-10 06:25:00,Habitação,2 - Trânsito Espacial,Acoplado,31985.5,35562.7,100.0,22.0
+2026-10-10 06:25:00,Logística,2 - Trânsito Espacial,Acoplado,31985.5,35562.7,100.0,22.0
+2026-10-10 06:25:00,Energia,2 - Trânsito Espacial,Acoplado,31985.5,35562.7,100.0,22.0
+2026-10-10 06:25:00,Laboratório,2 - Trânsito Espacial,Acoplado,31985.5,35562.7,100.0,22.0
+2026-10-10 06:30:00,Suporte Médico,2 - Trânsito Espacial,Acoplado,32127.15,39597.39,100.0,22.0
+2026-10-10 06:30:00,Habitação,2 - Trânsito Espacial,Acoplado,32127.15,39597.39,100.0,22.0
+2026-10-10 06:30:00,Logística,2 - Trânsito Espacial,Acoplado,32127.15,39597.39,100.0,22.0
+2026-10-10 06:30:00,Energia,2 - Trânsito Espacial,Acoplado,32127.15,39597.39,100.0,22.0
+2026-10-10 06:30:00,Laboratório,2 - Trânsito Espacial,Acoplado,32127.15,39597.39,100.0,22.0
+2026-10-10 06:35:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.17,12228.35,100.0,22.0
+2026-10-10 06:35:00,Habitação,3 - Órbita de Marte,Acoplado,401.17,12228.35,100.0,22.0
+2026-10-10 06:35:00,Logística,3 - Órbita de Marte,Acoplado,401.17,12228.35,100.0,22.0
+2026-10-10 06:35:00,Energia,3 - Órbita de Marte,Acoplado,401.17,12228.35,100.0,22.0
+2026-10-10 06:35:00,Laboratório,3 - Órbita de Marte,Acoplado,401.17,12228.35,100.0,22.0
+2026-10-10 06:40:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.28,13812.1,100.0,22.0
+2026-10-10 06:40:00,Habitação,3 - Órbita de Marte,Acoplado,401.28,13812.1,100.0,22.0
+2026-10-10 06:40:00,Logística,3 - Órbita de Marte,Acoplado,401.28,13812.1,100.0,22.0
+2026-10-10 06:40:00,Energia,3 - Órbita de Marte,Acoplado,401.28,13812.1,100.0,22.0
+2026-10-10 06:40:00,Laboratório,3 - Órbita de Marte,Acoplado,401.28,13812.1,100.0,22.0
+2026-10-10 06:45:00,Suporte Médico,3 - Órbita de Marte,Acoplado,399.32,12164.37,100.0,22.0
+2026-10-10 06:45:00,Habitação,3 - Órbita de Marte,Acoplado,399.32,12164.37,100.0,22.0
+2026-10-10 06:45:00,Logística,3 - Órbita de Marte,Acoplado,399.32,12164.37,100.0,22.0
+2026-10-10 06:45:00,Energia,3 - Órbita de Marte,Acoplado,399.32,12164.37,100.0,22.0
+2026-10-10 06:45:00,Laboratório,3 - Órbita de Marte,Acoplado,399.32,12164.37,100.0,22.0
+2026-10-10 06:50:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.93,12681.35,100.0,22.0
+2026-10-10 06:50:00,Habitação,3 - Órbita de Marte,Acoplado,401.93,12681.35,100.0,22.0
+2026-10-10 06:50:00,Logística,3 - Órbita de Marte,Acoplado,401.93,12681.35,100.0,22.0
+2026-10-10 06:50:00,Energia,3 - Órbita de Marte,Acoplado,401.93,12681.35,100.0,22.0
+2026-10-10 06:50:00,Laboratório,3 - Órbita de Marte,Acoplado,401.93,12681.35,100.0,22.0
+2026-10-10 06:55:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.75,13360.62,100.0,22.0
+2026-10-10 06:55:00,Habitação,3 - Órbita de Marte,Acoplado,400.75,13360.62,100.0,22.0
+2026-10-10 06:55:00,Logística,3 - Órbita de Marte,Acoplado,400.75,13360.62,100.0,22.0
+2026-10-10 06:55:00,Energia,3 - Órbita de Marte,Acoplado,400.75,13360.62,100.0,22.0
+2026-10-10 06:55:00,Laboratório,3 - Órbita de Marte,Acoplado,400.75,13360.62,100.0,22.0
+2026-10-10 07:00:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.74,12089.2,100.0,22.0
+2026-10-10 07:00:00,Habitação,3 - Órbita de Marte,Acoplado,400.74,12089.2,100.0,22.0
+2026-10-10 07:00:00,Logística,3 - Órbita de Marte,Acoplado,400.74,12089.2,100.0,22.0
+2026-10-10 07:00:00,Energia,3 - Órbita de Marte,Acoplado,400.74,12089.2,100.0,22.0
+2026-10-10 07:00:00,Laboratório,3 - Órbita de Marte,Acoplado,400.74,12089.2,100.0,22.0
+2026-10-10 07:05:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.71,12473.81,100.0,22.0
+2026-10-10 07:05:00,Habitação,3 - Órbita de Marte,Acoplado,400.71,12473.81,100.0,22.0
+2026-10-10 07:05:00,Logística,3 - Órbita de Marte,Acoplado,400.71,12473.81,100.0,22.0
+2026-10-10 07:05:00,Energia,3 - Órbita de Marte,Acoplado,400.71,12473.81,100.0,22.0
+2026-10-10 07:05:00,Laboratório,3 - Órbita de Marte,Acoplado,400.71,12473.81,100.0,22.0
+2026-10-10 07:10:00,Suporte Médico,3 - Órbita de Marte,Acoplado,398.83,12190.37,100.0,22.0
+2026-10-10 07:10:00,Habitação,3 - Órbita de Marte,Acoplado,398.83,12190.37,100.0,22.0
+2026-10-10 07:10:00,Logística,3 - Órbita de Marte,Acoplado,398.83,12190.37,100.0,22.0
+2026-10-10 07:10:00,Energia,3 - Órbita de Marte,Acoplado,398.83,12190.37,100.0,22.0
+2026-10-10 07:10:00,Laboratório,3 - Órbita de Marte,Acoplado,398.83,12190.37,100.0,22.0
+2026-10-10 07:15:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.97,12348.99,100.0,22.0
+2026-10-10 07:15:00,Habitação,3 - Órbita de Marte,Acoplado,400.97,12348.99,100.0,22.0
+2026-10-10 07:15:00,Logística,3 - Órbita de Marte,Acoplado,400.97,12348.99,100.0,22.0
+2026-10-10 07:15:00,Energia,3 - Órbita de Marte,Acoplado,400.97,12348.99,100.0,22.0
+2026-10-10 07:15:00,Laboratório,3 - Órbita de Marte,Acoplado,400.97,12348.99,100.0,22.0
+2026-10-10 07:20:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.27,13255.64,100.0,22.0
+2026-10-10 07:20:00,Habitação,3 - Órbita de Marte,Acoplado,401.27,13255.64,100.0,22.0
+2026-10-10 07:20:00,Logística,3 - Órbita de Marte,Acoplado,401.27,13255.64,100.0,22.0
+2026-10-10 07:20:00,Energia,3 - Órbita de Marte,Acoplado,401.27,13255.64,100.0,22.0
+2026-10-10 07:20:00,Laboratório,3 - Órbita de Marte,Acoplado,401.27,13255.64,100.0,22.0
+2026-10-10 07:25:00,Suporte Médico,3 - Órbita de Marte,Acoplado,398.85,13629.51,100.0,22.0
+2026-10-10 07:25:00,Habitação,3 - Órbita de Marte,Acoplado,398.85,13629.51,100.0,22.0
+2026-10-10 07:25:00,Logística,3 - Órbita de Marte,Acoplado,398.85,13629.51,100.0,22.0
+2026-10-10 07:25:00,Energia,3 - Órbita de Marte,Acoplado,398.85,13629.51,100.0,22.0
+2026-10-10 07:25:00,Laboratório,3 - Órbita de Marte,Acoplado,398.85,13629.51,100.0,22.0
+2026-10-10 07:30:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.86,13994.34,100.0,22.0
+2026-10-10 07:30:00,Habitação,3 - Órbita de Marte,Acoplado,400.86,13994.34,100.0,22.0
+2026-10-10 07:30:00,Logística,3 - Órbita de Marte,Acoplado,400.86,13994.34,100.0,22.0
+2026-10-10 07:30:00,Energia,3 - Órbita de Marte,Acoplado,400.86,13994.34,100.0,22.0
+2026-10-10 07:30:00,Laboratório,3 - Órbita de Marte,Acoplado,400.86,13994.34,100.0,22.0
+2026-10-10 07:35:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.53,13147.87,100.0,22.0
+2026-10-10 07:35:00,Habitação,3 - Órbita de Marte,Acoplado,401.53,13147.87,100.0,22.0
+2026-10-10 07:35:00,Logística,3 - Órbita de Marte,Acoplado,401.53,13147.87,100.0,22.0
+2026-10-10 07:35:00,Energia,3 - Órbita de Marte,Acoplado,401.53,13147.87,100.0,22.0
+2026-10-10 07:35:00,Laboratório,3 - Órbita de Marte,Acoplado,401.53,13147.87,100.0,22.0
+2026-10-10 07:40:00,Suporte Médico,3 - Órbita de Marte,Acoplado,399.73,12108.12,100.0,22.0
+2026-10-10 07:40:00,Habitação,3 - Órbita de Marte,Acoplado,399.73,12108.12,100.0,22.0
+2026-10-10 07:40:00,Logística,3 - Órbita de Marte,Acoplado,399.73,12108.12,100.0,22.0
+2026-10-10 07:40:00,Energia,3 - Órbita de Marte,Acoplado,399.73,12108.12,100.0,22.0
+2026-10-10 07:40:00,Laboratório,3 - Órbita de Marte,Acoplado,399.73,12108.12,100.0,22.0
+2026-10-10 07:45:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.0,12235.41,100.0,22.0
+2026-10-10 07:45:00,Habitação,3 - Órbita de Marte,Acoplado,401.0,12235.41,100.0,22.0
+2026-10-10 07:45:00,Logística,3 - Órbita de Marte,Acoplado,401.0,12235.41,100.0,22.0
+2026-10-10 07:45:00,Energia,3 - Órbita de Marte,Acoplado,401.0,12235.41,100.0,22.0
+2026-10-10 07:45:00,Laboratório,3 - Órbita de Marte,Acoplado,401.0,12235.41,100.0,22.0
+2026-10-10 07:50:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.74,13044.46,100.0,22.0
+2026-10-10 07:50:00,Habitação,3 - Órbita de Marte,Acoplado,400.74,13044.46,100.0,22.0
+2026-10-10 07:50:00,Logística,3 - Órbita de Marte,Acoplado,400.74,13044.46,100.0,22.0
+2026-10-10 07:50:00,Energia,3 - Órbita de Marte,Acoplado,400.74,13044.46,100.0,22.0
+2026-10-10 07:50:00,Laboratório,3 - Órbita de Marte,Acoplado,400.74,13044.46,100.0,22.0
+2026-10-10 07:55:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.62,13681.11,100.0,22.0
+2026-10-10 07:55:00,Habitação,3 - Órbita de Marte,Acoplado,400.62,13681.11,100.0,22.0
+2026-10-10 07:55:00,Logística,3 - Órbita de Marte,Acoplado,400.62,13681.11,100.0,22.0
+2026-10-10 07:55:00,Energia,3 - Órbita de Marte,Acoplado,400.62,13681.11,100.0,22.0
+2026-10-10 07:55:00,Laboratório,3 - Órbita de Marte,Acoplado,400.62,13681.11,100.0,22.0
+2026-10-10 08:00:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.86,12341.16,100.0,22.0
+2026-10-10 08:00:00,Habitação,3 - Órbita de Marte,Acoplado,400.86,12341.16,100.0,22.0
+2026-10-10 08:00:00,Logística,3 - Órbita de Marte,Acoplado,400.86,12341.16,100.0,22.0
+2026-10-10 08:00:00,Energia,3 - Órbita de Marte,Acoplado,400.86,12341.16,100.0,22.0
+2026-10-10 08:00:00,Laboratório,3 - Órbita de Marte,Acoplado,400.86,12341.16,100.0,22.0
+2026-10-10 08:05:00,Suporte Médico,3 - Órbita de Marte,Acoplado,398.29,12299.68,100.0,22.0
+2026-10-10 08:05:00,Habitação,3 - Órbita de Marte,Acoplado,398.29,12299.68,100.0,22.0
+2026-10-10 08:05:00,Logística,3 - Órbita de Marte,Acoplado,398.29,12299.68,100.0,22.0
+2026-10-10 08:05:00,Energia,3 - Órbita de Marte,Acoplado,398.29,12299.68,100.0,22.0
+2026-10-10 08:05:00,Laboratório,3 - Órbita de Marte,Acoplado,398.29,12299.68,100.0,22.0
+2026-10-10 08:10:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.15,13343.58,100.0,22.0
+2026-10-10 08:10:00,Habitação,3 - Órbita de Marte,Acoplado,401.15,13343.58,100.0,22.0
+2026-10-10 08:10:00,Logística,3 - Órbita de Marte,Acoplado,401.15,13343.58,100.0,22.0
+2026-10-10 08:10:00,Energia,3 - Órbita de Marte,Acoplado,401.15,13343.58,100.0,22.0
+2026-10-10 08:10:00,Laboratório,3 - Órbita de Marte,Acoplado,401.15,13343.58,100.0,22.0
+2026-10-10 08:15:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.62,12596.13,100.0,22.0
+2026-10-10 08:15:00,Habitação,3 - Órbita de Marte,Acoplado,400.62,12596.13,100.0,22.0
+2026-10-10 08:15:00,Logística,3 - Órbita de Marte,Acoplado,400.62,12596.13,100.0,22.0
+2026-10-10 08:15:00,Energia,3 - Órbita de Marte,Acoplado,400.62,12596.13,100.0,22.0
+2026-10-10 08:15:00,Laboratório,3 - Órbita de Marte,Acoplado,400.62,12596.13,100.0,22.0
+2026-10-10 08:20:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.45,13114.94,100.0,22.0
+2026-10-10 08:20:00,Habitação,3 - Órbita de Marte,Acoplado,400.45,13114.94,100.0,22.0
+2026-10-10 08:20:00,Logística,3 - Órbita de Marte,Acoplado,400.45,13114.94,100.0,22.0
+2026-10-10 08:20:00,Energia,3 - Órbita de Marte,Acoplado,400.45,13114.94,100.0,22.0
+2026-10-10 08:20:00,Laboratório,3 - Órbita de Marte,Acoplado,400.45,13114.94,100.0,22.0
+2026-10-10 08:25:00,Suporte Médico,3 - Órbita de Marte,Acoplado,399.18,13997.98,100.0,22.0
+2026-10-10 08:25:00,Habitação,3 - Órbita de Marte,Acoplado,399.18,13997.98,100.0,22.0
+2026-10-10 08:25:00,Logística,3 - Órbita de Marte,Acoplado,399.18,13997.98,100.0,22.0
+2026-10-10 08:25:00,Energia,3 - Órbita de Marte,Acoplado,399.18,13997.98,100.0,22.0
+2026-10-10 08:25:00,Laboratório,3 - Órbita de Marte,Acoplado,399.18,13997.98,100.0,22.0
+2026-10-10 08:30:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.64,12645.33,100.0,22.0
+2026-10-10 08:30:00,Habitação,3 - Órbita de Marte,Acoplado,400.64,12645.33,100.0,22.0
+2026-10-10 08:30:00,Logística,3 - Órbita de Marte,Acoplado,400.64,12645.33,100.0,22.0
+2026-10-10 08:30:00,Energia,3 - Órbita de Marte,Acoplado,400.64,12645.33,100.0,22.0
+2026-10-10 08:30:00,Laboratório,3 - Órbita de Marte,Acoplado,400.64,12645.33,100.0,22.0
+2026-10-10 08:35:00,Suporte Médico,3 - Órbita de Marte,Acoplado,398.09,12282.92,100.0,22.0
+2026-10-10 08:35:00,Habitação,3 - Órbita de Marte,Acoplado,398.09,12282.92,100.0,22.0
+2026-10-10 08:35:00,Logística,3 - Órbita de Marte,Acoplado,398.09,12282.92,100.0,22.0
+2026-10-10 08:35:00,Energia,3 - Órbita de Marte,Acoplado,398.09,12282.92,100.0,22.0
+2026-10-10 08:35:00,Laboratório,3 - Órbita de Marte,Acoplado,398.09,12282.92,100.0,22.0
+2026-10-10 08:40:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.55,13181.16,100.0,22.0
+2026-10-10 08:40:00,Habitação,3 - Órbita de Marte,Acoplado,401.55,13181.16,100.0,22.0
+2026-10-10 08:40:00,Logística,3 - Órbita de Marte,Acoplado,401.55,13181.16,100.0,22.0
+2026-10-10 08:40:00,Energia,3 - Órbita de Marte,Acoplado,401.55,13181.16,100.0,22.0
+2026-10-10 08:40:00,Laboratório,3 - Órbita de Marte,Acoplado,401.55,13181.16,100.0,22.0
+2026-10-10 08:45:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.04,12289.59,100.0,22.0
+2026-10-10 08:45:00,Habitação,3 - Órbita de Marte,Acoplado,400.04,12289.59,100.0,22.0
+2026-10-10 08:45:00,Logística,3 - Órbita de Marte,Acoplado,400.04,12289.59,100.0,22.0
+2026-10-10 08:45:00,Energia,3 - Órbita de Marte,Acoplado,400.04,12289.59,100.0,22.0
+2026-10-10 08:45:00,Laboratório,3 - Órbita de Marte,Acoplado,400.04,12289.59,100.0,22.0
+2026-10-10 08:50:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.77,12013.4,100.0,22.0
+2026-10-10 08:50:00,Habitação,3 - Órbita de Marte,Acoplado,401.77,12013.4,100.0,22.0
+2026-10-10 08:50:00,Logística,3 - Órbita de Marte,Acoplado,401.77,12013.4,100.0,22.0
+2026-10-10 08:50:00,Energia,3 - Órbita de Marte,Acoplado,401.77,12013.4,100.0,22.0
+2026-10-10 08:50:00,Laboratório,3 - Órbita de Marte,Acoplado,401.77,12013.4,100.0,22.0
+2026-10-10 08:55:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.61,13484.2,100.0,22.0
+2026-10-10 08:55:00,Habitação,3 - Órbita de Marte,Acoplado,401.61,13484.2,100.0,22.0
+2026-10-10 08:55:00,Logística,3 - Órbita de Marte,Acoplado,401.61,13484.2,100.0,22.0
+2026-10-10 08:55:00,Energia,3 - Órbita de Marte,Acoplado,401.61,13484.2,100.0,22.0
+2026-10-10 08:55:00,Laboratório,3 - Órbita de Marte,Acoplado,401.61,13484.2,100.0,22.0
+2026-10-10 09:00:00,Suporte Médico,3 - Órbita de Marte,Acoplado,398.95,13109.75,100.0,22.0
+2026-10-10 09:00:00,Habitação,3 - Órbita de Marte,Acoplado,398.95,13109.75,100.0,22.0
+2026-10-10 09:00:00,Logística,3 - Órbita de Marte,Acoplado,398.95,13109.75,100.0,22.0
+2026-10-10 09:00:00,Energia,3 - Órbita de Marte,Acoplado,398.95,13109.75,100.0,22.0
+2026-10-10 09:00:00,Laboratório,3 - Órbita de Marte,Acoplado,398.95,13109.75,100.0,22.0
+2026-10-10 09:05:00,Suporte Médico,3 - Órbita de Marte,Acoplado,399.49,13762.36,100.0,22.0
+2026-10-10 09:05:00,Habitação,3 - Órbita de Marte,Acoplado,399.49,13762.36,100.0,22.0
+2026-10-10 09:05:00,Logística,3 - Órbita de Marte,Acoplado,399.49,13762.36,100.0,22.0
+2026-10-10 09:05:00,Energia,3 - Órbita de Marte,Acoplado,399.49,13762.36,100.0,22.0
+2026-10-10 09:05:00,Laboratório,3 - Órbita de Marte,Acoplado,399.49,13762.36,100.0,22.0
+2026-10-10 09:10:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.38,12534.05,100.0,22.0
+2026-10-10 09:10:00,Habitação,3 - Órbita de Marte,Acoplado,400.38,12534.05,100.0,22.0
+2026-10-10 09:10:00,Logística,3 - Órbita de Marte,Acoplado,400.38,12534.05,100.0,22.0
+2026-10-10 09:10:00,Energia,3 - Órbita de Marte,Acoplado,400.38,12534.05,100.0,22.0
+2026-10-10 09:10:00,Laboratório,3 - Órbita de Marte,Acoplado,400.38,12534.05,100.0,22.0
+2026-10-10 09:15:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.69,12954.21,100.0,22.0
+2026-10-10 09:15:00,Habitação,3 - Órbita de Marte,Acoplado,401.69,12954.21,100.0,22.0
+2026-10-10 09:15:00,Logística,3 - Órbita de Marte,Acoplado,401.69,12954.21,100.0,22.0
+2026-10-10 09:15:00,Energia,3 - Órbita de Marte,Acoplado,401.69,12954.21,100.0,22.0
+2026-10-10 09:15:00,Laboratório,3 - Órbita de Marte,Acoplado,401.69,12954.21,100.0,22.0
+2026-10-10 09:20:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.85,12551.7,100.0,22.0
+2026-10-10 09:20:00,Habitação,3 - Órbita de Marte,Acoplado,400.85,12551.7,100.0,22.0
+2026-10-10 09:20:00,Logística,3 - Órbita de Marte,Acoplado,400.85,12551.7,100.0,22.0
+2026-10-10 09:20:00,Energia,3 - Órbita de Marte,Acoplado,400.85,12551.7,100.0,22.0
+2026-10-10 09:20:00,Laboratório,3 - Órbita de Marte,Acoplado,400.85,12551.7,100.0,22.0
+2026-10-10 09:25:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.41,13776.64,100.0,22.0
+2026-10-10 09:25:00,Habitação,3 - Órbita de Marte,Acoplado,400.41,13776.64,100.0,22.0
+2026-10-10 09:25:00,Logística,3 - Órbita de Marte,Acoplado,400.41,13776.64,100.0,22.0
+2026-10-10 09:25:00,Energia,3 - Órbita de Marte,Acoplado,400.41,13776.64,100.0,22.0
+2026-10-10 09:25:00,Laboratório,3 - Órbita de Marte,Acoplado,400.41,13776.64,100.0,22.0
+2026-10-10 09:30:00,Suporte Médico,3 - Órbita de Marte,Acoplado,399.66,12484.19,100.0,22.0
+2026-10-10 09:30:00,Habitação,3 - Órbita de Marte,Acoplado,399.66,12484.19,100.0,22.0
+2026-10-10 09:30:00,Logística,3 - Órbita de Marte,Acoplado,399.66,12484.19,100.0,22.0
+2026-10-10 09:30:00,Energia,3 - Órbita de Marte,Acoplado,399.66,12484.19,100.0,22.0
+2026-10-10 09:30:00,Laboratório,3 - Órbita de Marte,Acoplado,399.66,12484.19,100.0,22.0
+2026-10-10 09:35:00,Suporte Médico,3 - Órbita de Marte,Acoplado,399.52,12264.53,100.0,22.0
+2026-10-10 09:35:00,Habitação,3 - Órbita de Marte,Acoplado,399.52,12264.53,100.0,22.0
+2026-10-10 09:35:00,Logística,3 - Órbita de Marte,Acoplado,399.52,12264.53,100.0,22.0
+2026-10-10 09:35:00,Energia,3 - Órbita de Marte,Acoplado,399.52,12264.53,100.0,22.0
+2026-10-10 09:35:00,Laboratório,3 - Órbita de Marte,Acoplado,399.52,12264.53,100.0,22.0
+2026-10-10 09:40:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.81,12356.9,100.0,22.0
+2026-10-10 09:40:00,Habitação,3 - Órbita de Marte,Acoplado,401.81,12356.9,100.0,22.0
+2026-10-10 09:40:00,Logística,3 - Órbita de Marte,Acoplado,401.81,12356.9,100.0,22.0
+2026-10-10 09:40:00,Energia,3 - Órbita de Marte,Acoplado,401.81,12356.9,100.0,22.0
+2026-10-10 09:40:00,Laboratório,3 - Órbita de Marte,Acoplado,401.81,12356.9,100.0,22.0
+2026-10-10 09:45:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.66,12682.62,100.0,22.0
+2026-10-10 09:45:00,Habitação,3 - Órbita de Marte,Acoplado,400.66,12682.62,100.0,22.0
+2026-10-10 09:45:00,Logística,3 - Órbita de Marte,Acoplado,400.66,12682.62,100.0,22.0
+2026-10-10 09:45:00,Energia,3 - Órbita de Marte,Acoplado,400.66,12682.62,100.0,22.0
+2026-10-10 09:45:00,Laboratório,3 - Órbita de Marte,Acoplado,400.66,12682.62,100.0,22.0
+2026-10-10 09:50:00,Suporte Médico,3 - Órbita de Marte,Acoplado,398.6,13819.21,100.0,22.0
+2026-10-10 09:50:00,Habitação,3 - Órbita de Marte,Acoplado,398.6,13819.21,100.0,22.0
+2026-10-10 09:50:00,Logística,3 - Órbita de Marte,Acoplado,398.6,13819.21,100.0,22.0
+2026-10-10 09:50:00,Energia,3 - Órbita de Marte,Acoplado,398.6,13819.21,100.0,22.0
+2026-10-10 09:50:00,Laboratório,3 - Órbita de Marte,Acoplado,398.6,13819.21,100.0,22.0
+2026-10-10 09:55:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.77,13515.24,100.0,22.0
+2026-10-10 09:55:00,Habitação,3 - Órbita de Marte,Acoplado,400.77,13515.24,100.0,22.0
+2026-10-10 09:55:00,Logística,3 - Órbita de Marte,Acoplado,400.77,13515.24,100.0,22.0
+2026-10-10 09:55:00,Energia,3 - Órbita de Marte,Acoplado,400.77,13515.24,100.0,22.0
+2026-10-10 09:55:00,Laboratório,3 - Órbita de Marte,Acoplado,400.77,13515.24,100.0,22.0
+2026-10-10 10:00:00,Suporte Médico,3 - Órbita de Marte,Acoplado,399.09,13962.35,100.0,22.0
+2026-10-10 10:00:00,Habitação,3 - Órbita de Marte,Acoplado,399.09,13962.35,100.0,22.0
+2026-10-10 10:00:00,Logística,3 - Órbita de Marte,Acoplado,399.09,13962.35,100.0,22.0
+2026-10-10 10:00:00,Energia,3 - Órbita de Marte,Acoplado,399.09,13962.35,100.0,22.0
+2026-10-10 10:00:00,Laboratório,3 - Órbita de Marte,Acoplado,399.09,13962.35,100.0,22.0
+2026-10-10 10:05:00,Suporte Médico,3 - Órbita de Marte,Acoplado,399.84,12217.57,100.0,22.0
+2026-10-10 10:05:00,Habitação,3 - Órbita de Marte,Acoplado,399.84,12217.57,100.0,22.0
+2026-10-10 10:05:00,Logística,3 - Órbita de Marte,Acoplado,399.84,12217.57,100.0,22.0
+2026-10-10 10:05:00,Energia,3 - Órbita de Marte,Acoplado,399.84,12217.57,100.0,22.0
+2026-10-10 10:05:00,Laboratório,3 - Órbita de Marte,Acoplado,399.84,12217.57,100.0,22.0
+2026-10-10 10:10:00,Suporte Médico,3 - Órbita de Marte,Acoplado,398.99,13263.83,100.0,22.0
+2026-10-10 10:10:00,Habitação,3 - Órbita de Marte,Acoplado,398.99,13263.83,100.0,22.0
+2026-10-10 10:10:00,Logística,3 - Órbita de Marte,Acoplado,398.99,13263.83,100.0,22.0
+2026-10-10 10:10:00,Energia,3 - Órbita de Marte,Acoplado,398.99,13263.83,100.0,22.0
+2026-10-10 10:10:00,Laboratório,3 - Órbita de Marte,Acoplado,398.99,13263.83,100.0,22.0
+2026-10-10 10:15:00,Suporte Médico,3 - Órbita de Marte,Acoplado,400.79,13545.03,100.0,22.0
+2026-10-10 10:15:00,Habitação,3 - Órbita de Marte,Acoplado,400.79,13545.03,100.0,22.0
+2026-10-10 10:15:00,Logística,3 - Órbita de Marte,Acoplado,400.79,13545.03,100.0,22.0
+2026-10-10 10:15:00,Energia,3 - Órbita de Marte,Acoplado,400.79,13545.03,100.0,22.0
+2026-10-10 10:15:00,Laboratório,3 - Órbita de Marte,Acoplado,400.79,13545.03,100.0,22.0
+2026-10-10 10:20:00,Suporte Médico,3 - Órbita de Marte,Acoplado,398.55,12812.84,100.0,22.0
+2026-10-10 10:20:00,Habitação,3 - Órbita de Marte,Acoplado,398.55,12812.84,100.0,22.0
+2026-10-10 10:20:00,Logística,3 - Órbita de Marte,Acoplado,398.55,12812.84,100.0,22.0
+2026-10-10 10:20:00,Energia,3 - Órbita de Marte,Acoplado,398.55,12812.84,100.0,22.0
+2026-10-10 10:20:00,Laboratório,3 - Órbita de Marte,Acoplado,398.55,12812.84,100.0,22.0
+2026-10-10 10:25:00,Suporte Médico,3 - Órbita de Marte,Acoplado,401.65,13057.22,100.0,22.0
+2026-10-10 10:25:00,Habitação,3 - Órbita de Marte,Acoplado,401.65,13057.22,100.0,22.0
+2026-10-10 10:25:00,Logística,3 - Órbita de Marte,Acoplado,401.65,13057.22,100.0,22.0
+2026-10-10 10:25:00,Energia,3 - Órbita de Marte,Acoplado,401.65,13057.22,100.0,22.0
+2026-10-10 10:25:00,Laboratório,3 - Órbita de Marte,Acoplado,401.65,13057.22,100.0,22.0
+2026-10-10 10:30:00,Suporte Médico,3 - Órbita de Marte,Acoplado,398.45,12796.42,100.0,22.0
+2026-10-10 10:30:00,Habitação,3 - Órbita de Marte,Acoplado,398.45,12796.42,100.0,22.0
+2026-10-10 10:30:00,Logística,3 - Órbita de Marte,Acoplado,398.45,12796.42,100.0,22.0
+2026-10-10 10:30:00,Energia,3 - Órbita de Marte,Acoplado,398.45,12796.42,100.0,22.0
+2026-10-10 10:30:00,Laboratório,3 - Órbita de Marte,Acoplado,398.45,12796.42,100.0,22.0
+2026-10-10 10:35:00,Suporte Médico,3 - Órbita de Marte,Acoplado,398.01,12717.25,100.0,22.0
+2026-10-10 10:35:00,Habitação,3 - Órbita de Marte,Acoplado,398.01,12717.25,100.0,22.0
+2026-10-10 10:35:00,Logística,3 - Órbita de Marte,Acoplado,398.01,12717.25,100.0,22.0
+2026-10-10 10:35:00,Energia,3 - Órbita de Marte,Acoplado,398.01,12717.25,100.0,22.0
+2026-10-10 10:35:00,Laboratório,3 - Órbita de Marte,Acoplado,398.01,12717.25,100.0,22.0
+2026-10-10 10:40:00,Suporte Médico,3 - Órbita de Marte,Acoplado,398.32,13717.34,100.0,22.0
+2026-10-10 10:40:00,Habitação,3 - Órbita de Marte,Acoplado,398.32,13717.34,100.0,22.0
+2026-10-10 10:40:00,Logística,3 - Órbita de Marte,Acoplado,398.32,13717.34,100.0,22.0
+2026-10-10 10:40:00,Energia,3 - Órbita de Marte,Acoplado,398.32,13717.34,100.0,22.0
+2026-10-10 10:40:00,Laboratório,3 - Órbita de Marte,Acoplado,398.32,13717.34,100.0,22.0
+2026-10-10 10:45:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,377.82,1495.94,97.22,21.87
+2026-10-10 10:45:00,Habitação,4 - Procedimento de Pouso,Acoplado,400.09,13717.34,100.0,22.0
+2026-10-10 10:45:00,Logística,4 - Procedimento de Pouso,Acoplado,400.09,13717.34,100.0,22.0
+2026-10-10 10:45:00,Energia,4 - Procedimento de Pouso,Acoplado,400.09,13717.34,100.0,22.0
+2026-10-10 10:45:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.09,13717.34,100.0,22.0
+2026-10-10 10:50:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,361.28,1254.73,94.14,21.91
+2026-10-10 10:50:00,Habitação,4 - Procedimento de Pouso,Acoplado,398.58,13717.34,100.0,22.0
+2026-10-10 10:50:00,Logística,4 - Procedimento de Pouso,Acoplado,398.58,13717.34,100.0,22.0
+2026-10-10 10:50:00,Energia,4 - Procedimento de Pouso,Acoplado,398.58,13717.34,100.0,22.0
+2026-10-10 10:50:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.58,13717.34,100.0,22.0
+2026-10-10 10:55:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,340.39,765.85,92.55,21.53
+2026-10-10 10:55:00,Habitação,4 - Procedimento de Pouso,Acoplado,399.65,13717.34,100.0,22.0
+2026-10-10 10:55:00,Logística,4 - Procedimento de Pouso,Acoplado,399.65,13717.34,100.0,22.0
+2026-10-10 10:55:00,Energia,4 - Procedimento de Pouso,Acoplado,399.65,13717.34,100.0,22.0
+2026-10-10 10:55:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.65,13717.34,100.0,22.0
+2026-10-10 11:00:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,318.09,979.63,91.2,21.56
+2026-10-10 11:00:00,Habitação,4 - Procedimento de Pouso,Acoplado,399.44,13717.34,100.0,22.0
+2026-10-10 11:00:00,Logística,4 - Procedimento de Pouso,Acoplado,399.44,13717.34,100.0,22.0
+2026-10-10 11:00:00,Energia,4 - Procedimento de Pouso,Acoplado,399.44,13717.34,100.0,22.0
+2026-10-10 11:00:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.44,13717.34,100.0,22.0
+2026-10-10 11:05:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,294.83,681.87,89.89,21.45
+2026-10-10 11:05:00,Habitação,4 - Procedimento de Pouso,Acoplado,401.45,13717.34,100.0,22.0
+2026-10-10 11:05:00,Logística,4 - Procedimento de Pouso,Acoplado,401.45,13717.34,100.0,22.0
+2026-10-10 11:05:00,Energia,4 - Procedimento de Pouso,Acoplado,401.45,13717.34,100.0,22.0
+2026-10-10 11:05:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.45,13717.34,100.0,22.0
+2026-10-10 11:10:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,282.96,629.99,88.3,21.38
+2026-10-10 11:10:00,Habitação,4 - Procedimento de Pouso,Acoplado,398.36,13717.34,100.0,22.0
+2026-10-10 11:10:00,Logística,4 - Procedimento de Pouso,Acoplado,398.36,13717.34,100.0,22.0
+2026-10-10 11:10:00,Energia,4 - Procedimento de Pouso,Acoplado,398.36,13717.34,100.0,22.0
+2026-10-10 11:10:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.36,13717.34,100.0,22.0
+2026-10-10 11:15:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,268.46,811.71,85.11,21.14
+2026-10-10 11:15:00,Habitação,4 - Procedimento de Pouso,Acoplado,398.95,13717.34,100.0,22.0
+2026-10-10 11:15:00,Logística,4 - Procedimento de Pouso,Acoplado,398.95,13717.34,100.0,22.0
+2026-10-10 11:15:00,Energia,4 - Procedimento de Pouso,Acoplado,398.95,13717.34,100.0,22.0
+2026-10-10 11:15:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.95,13717.34,100.0,22.0
+2026-10-10 11:20:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,251.11,509.48,83.0,20.67
+2026-10-10 11:20:00,Habitação,4 - Procedimento de Pouso,Acoplado,401.4,13717.34,100.0,22.0
+2026-10-10 11:20:00,Logística,4 - Procedimento de Pouso,Acoplado,401.4,13717.34,100.0,22.0
+2026-10-10 11:20:00,Energia,4 - Procedimento de Pouso,Acoplado,401.4,13717.34,100.0,22.0
+2026-10-10 11:20:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.4,13717.34,100.0,22.0
+2026-10-10 11:25:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,239.26,1956.86,79.75,20.33
+2026-10-10 11:25:00,Habitação,4 - Procedimento de Pouso,Acoplado,401.56,13717.34,100.0,22.0
+2026-10-10 11:25:00,Logística,4 - Procedimento de Pouso,Acoplado,401.56,13717.34,100.0,22.0
+2026-10-10 11:25:00,Energia,4 - Procedimento de Pouso,Acoplado,401.56,13717.34,100.0,22.0
+2026-10-10 11:25:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.56,13717.34,100.0,22.0
+2026-10-10 11:30:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,228.45,1563.64,76.6,19.99
+2026-10-10 11:30:00,Habitação,4 - Procedimento de Pouso,Acoplado,401.26,13717.34,100.0,22.0
+2026-10-10 11:30:00,Logística,4 - Procedimento de Pouso,Acoplado,401.26,13717.34,100.0,22.0
+2026-10-10 11:30:00,Energia,4 - Procedimento de Pouso,Acoplado,401.26,13717.34,100.0,22.0
+2026-10-10 11:30:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.26,13717.34,100.0,22.0
+2026-10-10 11:35:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,212.73,776.8,73.21,19.64
+2026-10-10 11:35:00,Habitação,4 - Procedimento de Pouso,Acoplado,399.09,13717.34,100.0,22.0
+2026-10-10 11:35:00,Logística,4 - Procedimento de Pouso,Acoplado,399.09,13717.34,100.0,22.0
+2026-10-10 11:35:00,Energia,4 - Procedimento de Pouso,Acoplado,399.09,13717.34,100.0,22.0
+2026-10-10 11:35:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.09,13717.34,100.0,22.0
+2026-10-10 11:40:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,201.32,1730.03,70.15,19.68
+2026-10-10 11:40:00,Habitação,4 - Procedimento de Pouso,Acoplado,400.58,13717.34,100.0,22.0
+2026-10-10 11:40:00,Logística,4 - Procedimento de Pouso,Acoplado,400.58,13717.34,100.0,22.0
+2026-10-10 11:40:00,Energia,4 - Procedimento de Pouso,Acoplado,400.58,13717.34,100.0,22.0
+2026-10-10 11:40:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.58,13717.34,100.0,22.0
+2026-10-10 11:45:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,186.51,590.86,67.27,19.81
+2026-10-10 11:45:00,Habitação,4 - Procedimento de Pouso,Acoplado,400.97,13717.34,100.0,22.0
+2026-10-10 11:45:00,Logística,4 - Procedimento de Pouso,Acoplado,400.97,13717.34,100.0,22.0
+2026-10-10 11:45:00,Energia,4 - Procedimento de Pouso,Acoplado,400.97,13717.34,100.0,22.0
+2026-10-10 11:45:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.97,13717.34,100.0,22.0
+2026-10-10 11:50:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,168.04,546.13,64.25,19.53
+2026-10-10 11:50:00,Habitação,4 - Procedimento de Pouso,Acoplado,401.26,13717.34,100.0,22.0
+2026-10-10 11:50:00,Logística,4 - Procedimento de Pouso,Acoplado,401.26,13717.34,100.0,22.0
+2026-10-10 11:50:00,Energia,4 - Procedimento de Pouso,Acoplado,401.26,13717.34,100.0,22.0
+2026-10-10 11:50:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.26,13717.34,100.0,22.0
+2026-10-10 11:55:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,150.05,1351.37,62.23,19.57
+2026-10-10 11:55:00,Habitação,4 - Procedimento de Pouso,Acoplado,400.01,13717.34,100.0,22.0
+2026-10-10 11:55:00,Logística,4 - Procedimento de Pouso,Acoplado,400.01,13717.34,100.0,22.0
+2026-10-10 11:55:00,Energia,4 - Procedimento de Pouso,Acoplado,400.01,13717.34,100.0,22.0
+2026-10-10 11:55:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.01,13717.34,100.0,22.0
+2026-10-10 12:00:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,127.55,1601.01,59.47,19.59
+2026-10-10 12:00:00,Habitação,4 - Procedimento de Pouso,Acoplado,398.77,13717.34,100.0,22.0
+2026-10-10 12:00:00,Logística,4 - Procedimento de Pouso,Acoplado,398.77,13717.34,100.0,22.0
+2026-10-10 12:00:00,Energia,4 - Procedimento de Pouso,Acoplado,398.77,13717.34,100.0,22.0
+2026-10-10 12:00:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.77,13717.34,100.0,22.0
+2026-10-10 12:05:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,114.51,1419.83,57.34,19.24
+2026-10-10 12:05:00,Habitação,4 - Procedimento de Pouso,Acoplado,398.88,13717.34,100.0,22.0
+2026-10-10 12:05:00,Logística,4 - Procedimento de Pouso,Acoplado,398.88,13717.34,100.0,22.0
+2026-10-10 12:05:00,Energia,4 - Procedimento de Pouso,Acoplado,398.88,13717.34,100.0,22.0
+2026-10-10 12:05:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.88,13717.34,100.0,22.0
+2026-10-10 12:10:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,99.74,1150.21,54.88,18.75
+2026-10-10 12:10:00,Habitação,4 - Procedimento de Pouso,Acoplado,400.07,13717.34,100.0,22.0
+2026-10-10 12:10:00,Logística,4 - Procedimento de Pouso,Acoplado,400.07,13717.34,100.0,22.0
+2026-10-10 12:10:00,Energia,4 - Procedimento de Pouso,Acoplado,400.07,13717.34,100.0,22.0
+2026-10-10 12:10:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.07,13717.34,100.0,22.0
+2026-10-10 12:15:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,87.22,796.42,53.81,18.72
+2026-10-10 12:15:00,Habitação,4 - Procedimento de Pouso,Acoplado,399.37,13717.34,100.0,22.0
+2026-10-10 12:15:00,Logística,4 - Procedimento de Pouso,Acoplado,399.37,13717.34,100.0,22.0
+2026-10-10 12:15:00,Energia,4 - Procedimento de Pouso,Acoplado,399.37,13717.34,100.0,22.0
+2026-10-10 12:15:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.37,13717.34,100.0,22.0
+2026-10-10 12:20:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,63.52,1254.51,50.9,18.7
+2026-10-10 12:20:00,Habitação,4 - Procedimento de Pouso,Acoplado,398.62,13717.34,100.0,22.0
+2026-10-10 12:20:00,Logística,4 - Procedimento de Pouso,Acoplado,398.62,13717.34,100.0,22.0
+2026-10-10 12:20:00,Energia,4 - Procedimento de Pouso,Acoplado,398.62,13717.34,100.0,22.0
+2026-10-10 12:20:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.62,13717.34,100.0,22.0
+2026-10-10 12:25:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,49.36,1085.54,47.58,18.25
+2026-10-10 12:25:00,Habitação,4 - Procedimento de Pouso,Acoplado,398.64,13717.34,100.0,22.0
+2026-10-10 12:25:00,Logística,4 - Procedimento de Pouso,Acoplado,398.64,13717.34,100.0,22.0
+2026-10-10 12:25:00,Energia,4 - Procedimento de Pouso,Acoplado,398.64,13717.34,100.0,22.0
+2026-10-10 12:25:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.64,13717.34,100.0,22.0
+2026-10-10 12:30:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,27.78,1263.07,45.6,17.83
+2026-10-10 12:30:00,Habitação,4 - Procedimento de Pouso,Acoplado,399.2,13717.34,100.0,22.0
+2026-10-10 12:30:00,Logística,4 - Procedimento de Pouso,Acoplado,399.2,13717.34,100.0,22.0
+2026-10-10 12:30:00,Energia,4 - Procedimento de Pouso,Acoplado,399.2,13717.34,100.0,22.0
+2026-10-10 12:30:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.2,13717.34,100.0,22.0
+2026-10-10 12:35:00,Suporte Médico,4 - Procedimento de Pouso,Ejetado/Descendo,10.47,996.64,42.85,17.78
+2026-10-10 12:35:00,Habitação,4 - Procedimento de Pouso,Acoplado,398.41,13717.34,100.0,22.0
+2026-10-10 12:35:00,Logística,4 - Procedimento de Pouso,Acoplado,398.41,13717.34,100.0,22.0
+2026-10-10 12:35:00,Energia,4 - Procedimento de Pouso,Acoplado,398.41,13717.34,100.0,22.0
+2026-10-10 12:35:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.41,13717.34,100.0,22.0
+2026-10-10 12:40:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 12:40:00,Habitação,4 - Procedimento de Pouso,Acoplado,401.65,13717.34,100.0,22.0
+2026-10-10 12:40:00,Logística,4 - Procedimento de Pouso,Acoplado,401.65,13717.34,100.0,22.0
+2026-10-10 12:40:00,Energia,4 - Procedimento de Pouso,Acoplado,401.65,13717.34,100.0,22.0
+2026-10-10 12:40:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.65,13717.34,100.0,22.0
+2026-10-10 12:45:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 12:45:00,Habitação,4 - Procedimento de Pouso,Acoplado,399.18,13717.34,100.0,22.0
+2026-10-10 12:45:00,Logística,4 - Procedimento de Pouso,Acoplado,399.18,13717.34,100.0,22.0
+2026-10-10 12:45:00,Energia,4 - Procedimento de Pouso,Acoplado,399.18,13717.34,100.0,22.0
+2026-10-10 12:45:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.18,13717.34,100.0,22.0
+2026-10-10 12:50:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 12:50:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,373.78,761.39,98.84,21.84
+2026-10-10 12:50:00,Logística,4 - Procedimento de Pouso,Acoplado,398.55,13717.34,100.0,22.0
+2026-10-10 12:50:00,Energia,4 - Procedimento de Pouso,Acoplado,398.55,13717.34,100.0,22.0
+2026-10-10 12:50:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.55,13717.34,100.0,22.0
+2026-10-10 12:55:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 12:55:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,360.4,818.83,95.66,21.93
+2026-10-10 12:55:00,Logística,4 - Procedimento de Pouso,Acoplado,399.19,13717.34,100.0,22.0
+2026-10-10 12:55:00,Energia,4 - Procedimento de Pouso,Acoplado,399.19,13717.34,100.0,22.0
+2026-10-10 12:55:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.19,13717.34,100.0,22.0
+2026-10-10 13:00:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 13:00:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,337.59,1813.93,92.49,22.12
+2026-10-10 13:00:00,Logística,4 - Procedimento de Pouso,Acoplado,400.73,13717.34,100.0,22.0
+2026-10-10 13:00:00,Energia,4 - Procedimento de Pouso,Acoplado,400.73,13717.34,100.0,22.0
+2026-10-10 13:00:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.73,13717.34,100.0,22.0
+2026-10-10 13:05:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 13:05:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,325.34,1864.11,89.68,21.66
+2026-10-10 13:05:00,Logística,4 - Procedimento de Pouso,Acoplado,398.91,13717.34,100.0,22.0
+2026-10-10 13:05:00,Energia,4 - Procedimento de Pouso,Acoplado,398.91,13717.34,100.0,22.0
+2026-10-10 13:05:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.91,13717.34,100.0,22.0
+2026-10-10 13:10:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 13:10:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,314.46,1705.94,88.27,21.51
+2026-10-10 13:10:00,Logística,4 - Procedimento de Pouso,Acoplado,401.21,13717.34,100.0,22.0
+2026-10-10 13:10:00,Energia,4 - Procedimento de Pouso,Acoplado,401.21,13717.34,100.0,22.0
+2026-10-10 13:10:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.21,13717.34,100.0,22.0
+2026-10-10 13:15:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 13:15:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,302.07,1601.01,84.95,21.17
+2026-10-10 13:15:00,Logística,4 - Procedimento de Pouso,Acoplado,399.39,13717.34,100.0,22.0
+2026-10-10 13:15:00,Energia,4 - Procedimento de Pouso,Acoplado,399.39,13717.34,100.0,22.0
+2026-10-10 13:15:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.39,13717.34,100.0,22.0
+2026-10-10 13:20:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 13:20:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,286.42,1553.93,81.82,21.05
+2026-10-10 13:20:00,Logística,4 - Procedimento de Pouso,Acoplado,400.38,13717.34,100.0,22.0
+2026-10-10 13:20:00,Energia,4 - Procedimento de Pouso,Acoplado,400.38,13717.34,100.0,22.0
+2026-10-10 13:20:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.38,13717.34,100.0,22.0
+2026-10-10 13:25:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 13:25:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,262.14,1936.57,79.66,21.0
+2026-10-10 13:25:00,Logística,4 - Procedimento de Pouso,Acoplado,400.36,13717.34,100.0,22.0
+2026-10-10 13:25:00,Energia,4 - Procedimento de Pouso,Acoplado,400.36,13717.34,100.0,22.0
+2026-10-10 13:25:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.36,13717.34,100.0,22.0
+2026-10-10 13:30:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 13:30:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,237.75,1056.78,77.54,20.65
+2026-10-10 13:30:00,Logística,4 - Procedimento de Pouso,Acoplado,399.63,13717.34,100.0,22.0
+2026-10-10 13:30:00,Energia,4 - Procedimento de Pouso,Acoplado,399.63,13717.34,100.0,22.0
+2026-10-10 13:30:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.63,13717.34,100.0,22.0
+2026-10-10 13:35:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 13:35:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,213.78,1633.19,76.02,20.23
+2026-10-10 13:35:00,Logística,4 - Procedimento de Pouso,Acoplado,399.87,13717.34,100.0,22.0
+2026-10-10 13:35:00,Energia,4 - Procedimento de Pouso,Acoplado,399.87,13717.34,100.0,22.0
+2026-10-10 13:35:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.87,13717.34,100.0,22.0
+2026-10-10 13:40:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 13:40:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,198.91,1311.15,73.73,20.29
+2026-10-10 13:40:00,Logística,4 - Procedimento de Pouso,Acoplado,398.88,13717.34,100.0,22.0
+2026-10-10 13:40:00,Energia,4 - Procedimento de Pouso,Acoplado,398.88,13717.34,100.0,22.0
+2026-10-10 13:40:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.88,13717.34,100.0,22.0
+2026-10-10 13:45:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 13:45:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,188.77,1949.4,71.04,20.25
+2026-10-10 13:45:00,Logística,4 - Procedimento de Pouso,Acoplado,400.47,13717.34,100.0,22.0
+2026-10-10 13:45:00,Energia,4 - Procedimento de Pouso,Acoplado,400.47,13717.34,100.0,22.0
+2026-10-10 13:45:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.47,13717.34,100.0,22.0
+2026-10-10 13:50:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 13:50:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,170.68,1635.63,69.8,19.81
+2026-10-10 13:50:00,Logística,4 - Procedimento de Pouso,Acoplado,398.23,13717.34,100.0,22.0
+2026-10-10 13:50:00,Energia,4 - Procedimento de Pouso,Acoplado,398.23,13717.34,100.0,22.0
+2026-10-10 13:50:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.23,13717.34,100.0,22.0
+2026-10-10 13:55:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 13:55:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,151.26,1758.07,67.65,19.52
+2026-10-10 13:55:00,Logística,4 - Procedimento de Pouso,Acoplado,400.09,13717.34,100.0,22.0
+2026-10-10 13:55:00,Energia,4 - Procedimento de Pouso,Acoplado,400.09,13717.34,100.0,22.0
+2026-10-10 13:55:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.09,13717.34,100.0,22.0
+2026-10-10 14:00:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 14:00:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,133.7,531.73,65.16,19.2
+2026-10-10 14:00:00,Logística,4 - Procedimento de Pouso,Acoplado,400.36,13717.34,100.0,22.0
+2026-10-10 14:00:00,Energia,4 - Procedimento de Pouso,Acoplado,400.36,13717.34,100.0,22.0
+2026-10-10 14:00:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.36,13717.34,100.0,22.0
+2026-10-10 14:05:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 14:05:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,115.88,795.87,63.73,19.07
+2026-10-10 14:05:00,Logística,4 - Procedimento de Pouso,Acoplado,399.87,13717.34,100.0,22.0
+2026-10-10 14:05:00,Energia,4 - Procedimento de Pouso,Acoplado,399.87,13717.34,100.0,22.0
+2026-10-10 14:05:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.87,13717.34,100.0,22.0
+2026-10-10 14:10:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 14:10:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,97.66,1817.61,62.47,19.26
+2026-10-10 14:10:00,Logística,4 - Procedimento de Pouso,Acoplado,399.22,13717.34,100.0,22.0
+2026-10-10 14:10:00,Energia,4 - Procedimento de Pouso,Acoplado,399.22,13717.34,100.0,22.0
+2026-10-10 14:10:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.22,13717.34,100.0,22.0
+2026-10-10 14:15:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 14:15:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,86.39,1907.92,59.07,18.83
+2026-10-10 14:15:00,Logística,4 - Procedimento de Pouso,Acoplado,399.08,13717.34,100.0,22.0
+2026-10-10 14:15:00,Energia,4 - Procedimento de Pouso,Acoplado,399.08,13717.34,100.0,22.0
+2026-10-10 14:15:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.08,13717.34,100.0,22.0
+2026-10-10 14:20:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 14:20:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,66.93,662.05,57.71,18.92
+2026-10-10 14:20:00,Logística,4 - Procedimento de Pouso,Acoplado,399.71,13717.34,100.0,22.0
+2026-10-10 14:20:00,Energia,4 - Procedimento de Pouso,Acoplado,399.71,13717.34,100.0,22.0
+2026-10-10 14:20:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.71,13717.34,100.0,22.0
+2026-10-10 14:25:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 14:25:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,53.11,1509.13,54.99,18.77
+2026-10-10 14:25:00,Logística,4 - Procedimento de Pouso,Acoplado,401.79,13717.34,100.0,22.0
+2026-10-10 14:25:00,Energia,4 - Procedimento de Pouso,Acoplado,401.79,13717.34,100.0,22.0
+2026-10-10 14:25:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.79,13717.34,100.0,22.0
+2026-10-10 14:30:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 14:30:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,33.61,1230.67,51.79,18.29
+2026-10-10 14:30:00,Logística,4 - Procedimento de Pouso,Acoplado,400.24,13717.34,100.0,22.0
+2026-10-10 14:30:00,Energia,4 - Procedimento de Pouso,Acoplado,400.24,13717.34,100.0,22.0
+2026-10-10 14:30:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.24,13717.34,100.0,22.0
+2026-10-10 14:35:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 14:35:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,14.81,1586.64,49.1,17.97
+2026-10-10 14:35:00,Logística,4 - Procedimento de Pouso,Acoplado,398.09,13717.34,100.0,22.0
+2026-10-10 14:35:00,Energia,4 - Procedimento de Pouso,Acoplado,398.09,13717.34,100.0,22.0
+2026-10-10 14:35:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.09,13717.34,100.0,22.0
+2026-10-10 14:40:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 14:40:00,Habitação,4 - Procedimento de Pouso,Ejetado/Descendo,3.81,1782.84,47.64,17.69
+2026-10-10 14:40:00,Logística,4 - Procedimento de Pouso,Acoplado,398.66,13717.34,100.0,22.0
+2026-10-10 14:40:00,Energia,4 - Procedimento de Pouso,Acoplado,398.66,13717.34,100.0,22.0
+2026-10-10 14:40:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.66,13717.34,100.0,22.0
+2026-10-10 14:45:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 14:45:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 14:45:00,Logística,4 - Procedimento de Pouso,Acoplado,400.34,13717.34,100.0,22.0
+2026-10-10 14:45:00,Energia,4 - Procedimento de Pouso,Acoplado,400.34,13717.34,100.0,22.0
+2026-10-10 14:45:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.34,13717.34,100.0,22.0
+2026-10-10 14:50:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 14:50:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 14:50:00,Logística,4 - Procedimento de Pouso,Acoplado,401.28,13717.34,100.0,22.0
+2026-10-10 14:50:00,Energia,4 - Procedimento de Pouso,Acoplado,401.28,13717.34,100.0,22.0
+2026-10-10 14:50:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.28,13717.34,100.0,22.0
+2026-10-10 14:55:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 14:55:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 14:55:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,379.46,1167.81,98.64,21.9
+2026-10-10 14:55:00,Energia,4 - Procedimento de Pouso,Acoplado,400.35,13717.34,100.0,22.0
+2026-10-10 14:55:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.35,13717.34,100.0,22.0
+2026-10-10 15:00:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 15:00:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 15:00:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,368.24,1122.66,96.14,21.82
+2026-10-10 15:00:00,Energia,4 - Procedimento de Pouso,Acoplado,399.61,13717.34,100.0,22.0
+2026-10-10 15:00:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.61,13717.34,100.0,22.0
+2026-10-10 15:05:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 15:05:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 15:05:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,352.51,982.79,94.93,21.54
+2026-10-10 15:05:00,Energia,4 - Procedimento de Pouso,Acoplado,398.41,13717.34,100.0,22.0
+2026-10-10 15:05:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.41,13717.34,100.0,22.0
+2026-10-10 15:10:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 15:10:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 15:10:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,330.0,1074.48,93.35,21.74
+2026-10-10 15:10:00,Energia,4 - Procedimento de Pouso,Acoplado,399.88,13717.34,100.0,22.0
+2026-10-10 15:10:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.88,13717.34,100.0,22.0
+2026-10-10 15:15:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 15:15:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 15:15:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,314.74,1850.9,90.1,21.45
+2026-10-10 15:15:00,Energia,4 - Procedimento de Pouso,Acoplado,400.38,13717.34,100.0,22.0
+2026-10-10 15:15:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.38,13717.34,100.0,22.0
+2026-10-10 15:20:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 15:20:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 15:20:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,296.39,1273.76,86.75,21.19
+2026-10-10 15:20:00,Energia,4 - Procedimento de Pouso,Acoplado,398.1,13717.34,100.0,22.0
+2026-10-10 15:20:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.1,13717.34,100.0,22.0
+2026-10-10 15:25:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 15:25:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 15:25:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,285.17,1364.75,85.73,21.25
+2026-10-10 15:25:00,Energia,4 - Procedimento de Pouso,Acoplado,398.14,13717.34,100.0,22.0
+2026-10-10 15:25:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.14,13717.34,100.0,22.0
+2026-10-10 15:30:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 15:30:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 15:30:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,263.77,1625.0,82.56,21.21
+2026-10-10 15:30:00,Energia,4 - Procedimento de Pouso,Acoplado,399.81,13717.34,100.0,22.0
+2026-10-10 15:30:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.81,13717.34,100.0,22.0
+2026-10-10 15:35:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 15:35:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 15:35:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,251.49,1025.39,81.19,20.93
+2026-10-10 15:35:00,Energia,4 - Procedimento de Pouso,Acoplado,399.32,13717.34,100.0,22.0
+2026-10-10 15:35:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.32,13717.34,100.0,22.0
+2026-10-10 15:40:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 15:40:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 15:40:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,236.04,598.51,78.82,20.44
+2026-10-10 15:40:00,Energia,4 - Procedimento de Pouso,Acoplado,398.2,13717.34,100.0,22.0
+2026-10-10 15:40:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.2,13717.34,100.0,22.0
+2026-10-10 15:45:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 15:45:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 15:45:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,216.74,647.85,76.55,20.29
+2026-10-10 15:45:00,Energia,4 - Procedimento de Pouso,Acoplado,400.56,13717.34,100.0,22.0
+2026-10-10 15:45:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.56,13717.34,100.0,22.0
+2026-10-10 15:50:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 15:50:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 15:50:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,196.07,1786.62,74.64,20.14
+2026-10-10 15:50:00,Energia,4 - Procedimento de Pouso,Acoplado,398.86,13717.34,100.0,22.0
+2026-10-10 15:50:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.86,13717.34,100.0,22.0
+2026-10-10 15:55:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 15:55:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 15:55:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,178.85,1611.04,73.63,19.84
+2026-10-10 15:55:00,Energia,4 - Procedimento de Pouso,Acoplado,401.78,13717.34,100.0,22.0
+2026-10-10 15:55:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.78,13717.34,100.0,22.0
+2026-10-10 16:00:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 16:00:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 16:00:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,166.57,892.29,70.34,20.03
+2026-10-10 16:00:00,Energia,4 - Procedimento de Pouso,Acoplado,398.53,13717.34,100.0,22.0
+2026-10-10 16:00:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.53,13717.34,100.0,22.0
+2026-10-10 16:05:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 16:05:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 16:05:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,145.31,773.06,67.0,19.92
+2026-10-10 16:05:00,Energia,4 - Procedimento de Pouso,Acoplado,398.88,13717.34,100.0,22.0
+2026-10-10 16:05:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.88,13717.34,100.0,22.0
+2026-10-10 16:10:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 16:10:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 16:10:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,126.31,915.42,65.97,19.7
+2026-10-10 16:10:00,Energia,4 - Procedimento de Pouso,Acoplado,398.01,13717.34,100.0,22.0
+2026-10-10 16:10:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.01,13717.34,100.0,22.0
+2026-10-10 16:15:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 16:15:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 16:15:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,107.65,1414.06,63.39,19.45
+2026-10-10 16:15:00,Energia,4 - Procedimento de Pouso,Acoplado,401.23,13717.34,100.0,22.0
+2026-10-10 16:15:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.23,13717.34,100.0,22.0
+2026-10-10 16:20:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 16:20:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 16:20:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,96.66,1210.91,60.87,19.35
+2026-10-10 16:20:00,Energia,4 - Procedimento de Pouso,Acoplado,399.2,13717.34,100.0,22.0
+2026-10-10 16:20:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.2,13717.34,100.0,22.0
+2026-10-10 16:25:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 16:25:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 16:25:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,77.14,1020.59,57.45,19.09
+2026-10-10 16:25:00,Energia,4 - Procedimento de Pouso,Acoplado,400.6,13717.34,100.0,22.0
+2026-10-10 16:25:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.6,13717.34,100.0,22.0
+2026-10-10 16:30:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 16:30:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 16:30:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,58.18,1505.91,55.18,18.77
+2026-10-10 16:30:00,Energia,4 - Procedimento de Pouso,Acoplado,399.22,13717.34,100.0,22.0
+2026-10-10 16:30:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.22,13717.34,100.0,22.0
+2026-10-10 16:35:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 16:35:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 16:35:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,41.1,743.75,52.28,18.7
+2026-10-10 16:35:00,Energia,4 - Procedimento de Pouso,Acoplado,401.69,13717.34,100.0,22.0
+2026-10-10 16:35:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.69,13717.34,100.0,22.0
+2026-10-10 16:40:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 16:40:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 16:40:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,19.9,1044.69,49.13,18.3
+2026-10-10 16:40:00,Energia,4 - Procedimento de Pouso,Acoplado,401.79,13717.34,100.0,22.0
+2026-10-10 16:40:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.79,13717.34,100.0,22.0
+2026-10-10 16:45:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 16:45:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 16:45:00,Logística,4 - Procedimento de Pouso,Ejetado/Descendo,6.83,560.92,47.15,18.42
+2026-10-10 16:45:00,Energia,4 - Procedimento de Pouso,Acoplado,398.89,13717.34,100.0,22.0
+2026-10-10 16:45:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.89,13717.34,100.0,22.0
+2026-10-10 16:50:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 16:50:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 16:50:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 16:50:00,Energia,4 - Procedimento de Pouso,Acoplado,400.84,13717.34,100.0,22.0
+2026-10-10 16:50:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.84,13717.34,100.0,22.0
+2026-10-10 16:55:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 16:55:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 16:55:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 16:55:00,Energia,4 - Procedimento de Pouso,Acoplado,401.25,13717.34,100.0,22.0
+2026-10-10 16:55:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.25,13717.34,100.0,22.0
+2026-10-10 17:00:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 17:00:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 17:00:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 17:00:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,380.17,1299.23,97.68,21.82
+2026-10-10 17:00:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.64,13717.34,100.0,22.0
+2026-10-10 17:05:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 17:05:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 17:05:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 17:05:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,360.43,524.3,95.19,21.84
+2026-10-10 17:05:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.47,13717.34,100.0,22.0
+2026-10-10 17:10:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 17:10:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 17:10:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 17:10:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,349.91,1725.8,93.04,21.67
+2026-10-10 17:10:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.37,13717.34,100.0,22.0
+2026-10-10 17:15:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 17:15:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 17:15:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 17:15:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,338.1,646.01,90.41,21.83
+2026-10-10 17:15:00,Laboratório,4 - Procedimento de Pouso,Acoplado,401.76,13717.34,100.0,22.0
+2026-10-10 17:20:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 17:20:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 17:20:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 17:20:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,320.99,1835.55,89.23,21.96
+2026-10-10 17:20:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.12,13717.34,100.0,22.0
+2026-10-10 17:25:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 17:25:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 17:25:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 17:25:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,301.6,926.13,86.67,21.74
+2026-10-10 17:25:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.55,13717.34,100.0,22.0
+2026-10-10 17:30:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 17:30:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 17:30:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 17:30:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,278.15,1142.66,84.71,21.52
+2026-10-10 17:30:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.41,13717.34,100.0,22.0
+2026-10-10 17:35:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 17:35:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 17:35:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 17:35:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,253.55,553.76,81.51,21.65
+2026-10-10 17:35:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.69,13717.34,100.0,22.0
+2026-10-10 17:40:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 17:40:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 17:40:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 17:40:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,235.52,998.71,78.04,21.57
+2026-10-10 17:40:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.88,13717.34,100.0,22.0
+2026-10-10 17:45:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 17:45:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 17:45:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 17:45:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,210.79,1083.05,76.81,21.44
+2026-10-10 17:45:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.22,13717.34,100.0,22.0
+2026-10-10 17:50:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 17:50:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 17:50:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 17:50:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,192.56,897.31,75.21,21.03
+2026-10-10 17:50:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.85,13717.34,100.0,22.0
+2026-10-10 17:55:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 17:55:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 17:55:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 17:55:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,177.02,1311.48,72.8,21.07
+2026-10-10 17:55:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.62,13717.34,100.0,22.0
+2026-10-10 18:00:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 18:00:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 18:00:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 18:00:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,156.19,1226.42,70.21,20.67
+2026-10-10 18:00:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.83,13717.34,100.0,22.0
+2026-10-10 18:05:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 18:05:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 18:05:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 18:05:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,138.09,1769.78,67.11,20.76
+2026-10-10 18:05:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.95,13717.34,100.0,22.0
+2026-10-10 18:10:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 18:10:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 18:10:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 18:10:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,119.74,553.7,65.66,20.56
+2026-10-10 18:10:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.42,13717.34,100.0,22.0
+2026-10-10 18:15:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 18:15:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 18:15:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 18:15:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,95.41,735.14,62.51,20.07
+2026-10-10 18:15:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.03,13717.34,100.0,22.0
+2026-10-10 18:20:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 18:20:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 18:20:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 18:20:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,72.84,1333.73,59.16,19.64
+2026-10-10 18:20:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.62,13717.34,100.0,22.0
+2026-10-10 18:25:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 18:25:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 18:25:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 18:25:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,61.71,1957.67,58.02,19.38
+2026-10-10 18:25:00,Laboratório,4 - Procedimento de Pouso,Acoplado,398.04,13717.34,100.0,22.0
+2026-10-10 18:30:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 18:30:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 18:30:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 18:30:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,40.59,1418.6,56.27,19.2
+2026-10-10 18:30:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.29,13717.34,100.0,22.0
+2026-10-10 18:35:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 18:35:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 18:35:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 18:35:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,28.31,1879.86,54.74,19.36
+2026-10-10 18:35:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.46,13717.34,100.0,22.0
+2026-10-10 18:40:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 18:40:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 18:40:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 18:40:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,11.7,1278.71,53.01,19.45
+2026-10-10 18:40:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.75,13717.34,100.0,22.0
+2026-10-10 18:45:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 18:45:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 18:45:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 18:45:00,Energia,4 - Procedimento de Pouso,Ejetado/Descendo,1.04,1923.04,51.43,19.13
+2026-10-10 18:45:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.62,13717.34,100.0,22.0
+2026-10-10 18:50:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 18:50:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 18:50:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 18:50:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 18:50:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.45,13717.34,100.0,22.0
+2026-10-10 18:55:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 18:55:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 18:55:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 18:55:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 18:55:00,Laboratório,4 - Procedimento de Pouso,Acoplado,399.95,13717.34,100.0,22.0
+2026-10-10 19:00:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 19:00:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 19:00:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 19:00:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 19:00:00,Laboratório,4 - Procedimento de Pouso,Acoplado,400.38,13717.34,100.0,22.0
+2026-10-10 19:05:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 19:05:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 19:05:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 19:05:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 19:05:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,388.04,1305.83,97.31,21.86
+2026-10-10 19:10:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 19:10:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 19:10:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 19:10:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 19:10:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,366.35,1511.31,95.25,21.9
+2026-10-10 19:15:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 19:15:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 19:15:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 19:15:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 19:15:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,355.1,1667.58,94.17,21.74
+2026-10-10 19:20:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 19:20:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 19:20:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 19:20:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 19:20:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,335.01,1596.8,91.84,21.63
+2026-10-10 19:25:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 19:25:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 19:25:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 19:25:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 19:25:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,323.68,866.15,89.47,21.35
+2026-10-10 19:30:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 19:30:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 19:30:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 19:30:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 19:30:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,309.96,1075.97,86.05,21.42
+2026-10-10 19:35:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 19:35:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 19:35:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 19:35:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 19:35:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,298.92,1004.25,84.86,21.52
+2026-10-10 19:40:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 19:40:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 19:40:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 19:40:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 19:40:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,286.06,832.31,81.56,21.24
+2026-10-10 19:45:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 19:45:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 19:45:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 19:45:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 19:45:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,264.85,1697.71,79.47,20.87
+2026-10-10 19:50:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 19:50:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 19:50:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 19:50:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 19:50:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,244.49,600.56,77.21,20.86
+2026-10-10 19:55:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 19:55:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 19:55:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 19:55:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 19:55:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,230.09,810.22,74.62,20.5
+2026-10-10 20:00:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 20:00:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 20:00:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 20:00:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 20:00:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,210.69,1771.9,71.82,20.6
+2026-10-10 20:05:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 20:05:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 20:05:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 20:05:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 20:05:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,199.28,1878.33,70.37,20.71
+2026-10-10 20:10:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 20:10:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 20:10:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 20:10:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 20:10:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,182.23,851.31,66.99,20.87
+2026-10-10 20:15:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 20:15:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 20:15:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 20:15:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 20:15:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,169.86,1308.18,64.49,20.4
+2026-10-10 20:20:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 20:20:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 20:20:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 20:20:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 20:20:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,154.93,1605.99,61.11,20.29
+2026-10-10 20:25:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 20:25:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 20:25:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 20:25:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 20:25:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,141.39,669.88,59.39,19.97
+2026-10-10 20:30:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 20:30:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 20:30:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 20:30:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 20:30:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,126.72,1370.25,58.16,19.98
+2026-10-10 20:35:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 20:35:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 20:35:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 20:35:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 20:35:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,111.36,1403.13,56.51,19.99
+2026-10-10 20:40:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 20:40:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 20:40:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 20:40:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 20:40:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,90.02,754.24,53.64,20.02
+2026-10-10 20:45:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 20:45:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 20:45:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 20:45:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 20:45:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,76.17,801.73,52.52,19.83
+2026-10-10 20:50:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 20:50:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 20:50:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 20:50:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 20:50:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,51.7,1676.37,51.5,19.89
+2026-10-10 20:55:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 20:55:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 20:55:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 20:55:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 20:55:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,31.35,1360.27,49.57,19.74
+2026-10-10 21:00:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 21:00:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 21:00:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 21:00:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 21:00:00,Laboratório,4 - Procedimento de Pouso,Ejetado/Descendo,15.08,923.33,47.03,19.87
+2026-10-10 21:05:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 21:05:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 21:05:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 21:05:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 21:05:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 21:10:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 21:10:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 21:10:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 21:10:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 21:10:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 21:15:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 21:15:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 21:15:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 21:15:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 21:15:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 21:20:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 21:20:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 21:20:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 21:20:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 21:20:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 21:25:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 21:25:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 21:25:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 21:25:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 21:25:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 21:30:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 21:30:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 21:30:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 21:30:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 21:30:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 21:35:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 21:35:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 21:35:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 21:35:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 21:35:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 21:40:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 21:40:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 21:40:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 21:40:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 21:40:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 21:45:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 21:45:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 21:45:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 21:45:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 21:45:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 21:50:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 21:50:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 21:50:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 21:50:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 21:50:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 21:55:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 21:55:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 21:55:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 21:55:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 21:55:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 22:00:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 22:00:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 22:00:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 22:00:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 22:00:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 22:05:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 22:05:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 22:05:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 22:05:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 22:05:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 22:10:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 22:10:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 22:10:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 22:10:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 22:10:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 22:15:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 22:15:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 22:15:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 22:15:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 22:15:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 22:20:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 22:20:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 22:20:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 22:20:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 22:20:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 22:25:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 22:25:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 22:25:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 22:25:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 22:25:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 22:30:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 22:30:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 22:30:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 22:30:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 22:30:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 22:35:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 22:35:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 22:35:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 22:35:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 22:35:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 22:40:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 22:40:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 22:40:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 22:40:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 22:40:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 22:45:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 22:45:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 22:45:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 22:45:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 22:45:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 22:50:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 22:50:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 22:50:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 22:50:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 22:50:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 22:55:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 22:55:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 22:55:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 22:55:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 22:55:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 23:00:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 23:00:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 23:00:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 23:00:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 23:00:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 23:05:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 23:05:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 23:05:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 23:05:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 23:05:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
+2026-10-10 23:10:00,Suporte Médico,4 - Procedimento de Pouso,Pousado,0.0,0.0,39.62,17.64
+2026-10-10 23:10:00,Habitação,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.72,17.63
+2026-10-10 23:10:00,Logística,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.24,18.23
+2026-10-10 23:10:00,Energia,4 - Procedimento de Pouso,Pousado,0.0,0.0,48.24,18.74
+2026-10-10 23:10:00,Laboratório,4 - Procedimento de Pouso,Pousado,0.0,0.0,45.54,19.73
