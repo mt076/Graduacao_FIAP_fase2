@@ -7,7 +7,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 ## 📌 Sobre o Projeto
-Este repositório contém o **Módulo de Gerenciamento de Pouso e Estabilização de Base (MGPEB)**, desenvolvido como Atividade Integradora para o curso de Ciência da Computação (FIAP). O objetivo do sistema é orquestrar, de forma autônoma e segura, a descida de módulos logísticos e tripulados na colônia marciana Aurora Siger.
+Este repositório contém o **Módulo de Gerenciamento de Pouso e Estabilização de Base (MGPEB)**, desenvolvido como Atividade Integradora para o curso de Ciência da Computação (FIAP). O objetivo do sistema é orquestrar, de forma autônoma e segura, a descida de módulos logísticos e tripulados.
 
 Diferente do processamento *hardcoded* e limitado da era Apollo 11 (cujo AGC possuía apenas 4KB de RAM), este projeto utiliza a linguagem Python para alocação dinâmica de memória, permitindo processar a telemetria espacial em tempo real, respeitando rigorosos protocolos lógicos e legislações interplanetárias (ESG).
 
@@ -41,7 +41,7 @@ O projeto foi desenvolvido em conformidade com:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/mt076/Graduacao_FIAP.git
+git clone https://github.com/mt076/Graduacao_FIAP_fase2.git
 ```
 2. Instale as dependências utilizadas para visualização e análise de dados (caso não tenha):
 ```bash
